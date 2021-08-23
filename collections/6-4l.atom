@@ -1,0 +1,1543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dieselpartscanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dieselpartscanada.ca/collections/6-4l.atom"/>
+  <title>Diesel Parts Canada</title>
+  <updated>2021-05-26T13:23:05-06:00</updated>
+  <author>
+    <name>Diesel Parts Canada</name>
+  </author>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6601705160786</id>
+    <published>2021-05-26T13:23:05-06:00</published>
+    <updated>2021-05-26T13:23:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/factory-tested-2008-2010-ford-6-4-l-powerstroke-remanufactured-high-pressure-fuel-pump-hpfp"/>
+    <title>Factory Tested 2008-2010 Ford 6.4 L PowerStroke Remanufactured High-Pressure Fuel Pump (HPFP)</title>
+    <s:type>Pumps</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/AP63643.jpg?v=1620747266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Pumps<br>
+        <strong>Price: </strong>
+            1150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>2008-2010 Ford 6.4 L PowerStroke Remanufactured High-Pressure Fuel Pump (HPFP)</b></p>
+<p>Application: F-250 / F-550</p>
+<p>Notes: Pump does not include installation kit.</p>
+<hr>
+<p>Alliant Power Part Number: AP63640 and AP63643</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.4L</s:tag>
+    <s:tag>fire-sale</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6601705160786</id>
+      <title>Core Charge / 400</title>
+      <s:price currency="CAD">1150.00</s:price>
+      <s:sku>DPC-AP63643U</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/284340421</id>
+    <published>2021-01-08T08:55:37-07:00</published>
+    <updated>2021-01-08T08:55:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/stanadyne-winter-1000-diesel-fuel-additive"/>
+    <title>Stanadyne Winter 1000 Diesel Fuel Additive</title>
+    <s:type>Additive</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/stanadyne-winter-1000.jpg?v=1527008757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Additive<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Economic cold weather protection</strong></p>
+<ul>
+<li>Fuel Gelling Protection - pour point reduced by as much as 40°F (22°C), depending on base fuel</li>
+<li>Reduces ice formation of water in fuel</li>
+<li>Contains no alcohol</li>
+<li>Specially formulated for ultra low sulfur diesel</li>
+<li>Can be used with bio diesel up to B20 (20% bio content)</li>
+</ul>
+<p> </p>
+<table class="gridtable">
+<tbody>
+<tr>
+<td class="header">Size</td>
+<td>16 oz Pint (470 ml)</td>
+<td>5 Gallons (19 L)</td>
+</tr>
+<tr>
+<td class="header">Package Quantity</td>
+<td>12</td>
+<td>1</td>
+</tr>
+<tr>
+<td class="header">Treatment (1:1000)</td>
+<td>125 gal (470 L)</td>
+<td>5,000 gal (19,200 L)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Additive</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/284340421</id>
+      <title>Case of 12 (16 oz) Bottles</title>
+      <s:price currency="CAD">84.00</s:price>
+      <s:sku>DPC-38574</s:sku>
+      <s:grams>12701</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888760025170</id>
+    <published>2020-11-25T10:12:37-07:00</published>
+    <updated>2020-11-25T10:12:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/ford-powerstroke-2008-2010-6-4l-oe-injector-and-line-kit-complete-set"/>
+    <title>Ford PowerStroke 2008-2010 6.4L OE Injector and Line Kit (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP64900-13_b3cecbd7-8974-48b8-96c5-a0e7c728a70f.jpg?v=1606324311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            4672.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 14px;">(Complete Set)</span></p>
+<p><span style="font-size: 14px;">Ford PowerStroke 2008-2010 F Series 6.4L Common Rail OE Injector with injection line supplied by Alliant Power.</span></p>
+<p>OE Number: 8C3Z9E527A </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.4L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888760025170</id>
+      <title>Core Charge / 1800</title>
+      <s:price currency="CAD">4672.00</s:price>
+      <s:sku>DPC-AP64900-8</s:sku>
+      <s:grams>662</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2513421238354</id>
+    <published>2019-10-09T09:49:07-06:00</published>
+    <updated>2019-10-09T09:49:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/fan-clutch-wrench-kit"/>
+    <title>Fan Clutch Wrench Kit</title>
+    <s:type>Tools</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP0089.jpg?v=1558346415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Tools<br>
+        <strong>Price: </strong>
+            326.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 148"><strong>Fan Clutch Wrench Kit</strong></div>
+<div class="page" title="Page 148"></div>
+<div class="page" title="Page 148">
+<div class="section">
+<div class="layoutArea">
+<div class="column"></div>
+<div class="column">
+<div class="page" title="Page 149">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 149">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 149">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Year Range:                     </span>Application:</p>
+<p>1994–2003                       Ford 7.3L     </p>
+<p>2003–2010                      <span> Ford 6.0L</span>   </p>
+<p>2008–2010                       Ford 6.4L</p>
+<p>2010–2015                       Ford 6.7L</p>
+<p>2006–2010                       Ford 4.5L LCF</p>
+</div>
+<div class="column">
+<p style="text-align: center;"> </p>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4.5L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2513421238354</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">326.00</s:price>
+      <s:sku>DPC-AP0089</s:sku>
+      <s:grams>4014</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2513392140370</id>
+    <published>2019-10-09T09:49:04-06:00</published>
+    <updated>2019-10-09T09:49:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/injector-removal-tool"/>
+    <title>Injector Removal Tool</title>
+    <s:type>Tools</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP0096-6.jpg?v=1579514264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Tools<br>
+        <strong>Price: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 148">
+<div class="section">
+<div class="layoutArea">
+<div class="column"></div>
+<div class="column">
+<div class="page" title="Page 149">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 149">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 149">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Year Range:                     </span>Application:</p>
+<p>2011–2017                       Ford 6.7L</p>
+<p> </p>
+</div>
+<div class="column">
+<p style="text-align: center;"> </p>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4.5L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2513392140370</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">239.00</s:price>
+      <s:sku>DPC-AP0096</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2513391583314</id>
+    <published>2019-10-09T09:43:13-06:00</published>
+    <updated>2019-10-09T09:43:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/fan-clutch-nut-wrench-1"/>
+    <title>Fan Clutch Nut Wrench</title>
+    <s:type>Tools</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP0080.jpg?v=1558346414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Tools<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 148"><strong>Fan Clutch Nut Wrench</strong></div>
+<div class="page" title="Page 148"></div>
+<div class="page" title="Page 148">
+<div class="section">
+<div class="layoutArea">
+<div class="column"></div>
+<div class="column">
+<div class="page" title="Page 149">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 149">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 149">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Year Range:                     </span>Application:</p>
+<p>1994–2003                       Ford 7.3L     </p>
+<p>2003–2010                      <span> Ford 6.0L</span>   </p>
+<p>2008–2010                       Ford 6.4L</p>
+<p>2010–2015                       Ford 6.7L</p>
+<p>2006–2010                       Ford 4.5L LCF</p>
+</div>
+<div class="column">
+<p style="text-align: center;"> </p>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4.5L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2513391583314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku>DPC-AP0080</s:sku>
+      <s:grams>1633</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2513372053586</id>
+    <published>2019-10-09T09:43:09-06:00</published>
+    <updated>2019-10-09T09:43:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2008-2010-ford-6-4l-navistar-maxxforce-7-fuel-injector-harness-tool"/>
+    <title>2008–2010 Ford 6.4L , Navistar MaxxForce 7 Fuel Injector Harness Tool</title>
+    <s:type>Tools</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP0077-5.jpg?v=1558346413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Tools<br>
+        <strong>Price: </strong>
+            273.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 148">
+<div class="section">
+<div class="layoutArea">
+<div class="column"></div>
+<div class="column">
+<div class="page" title="Page 149">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span> </span><span>Used in disconnecting AP63515 and AP63516 Injector Harness. </span></p>
+</div>
+</div>
+<div class="layoutArea">
+<div class="column">
+<p> </p>
+</div>
+<div class="column">
+<p><span>Application: </span><span>Ford 6.4L , Navistar MaxxForce 7 </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.4L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2513372053586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">273.00</s:price>
+      <s:sku>DPC-AP0077</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1514104848466</id>
+    <published>2019-06-26T12:31:32-06:00</published>
+    <updated>2019-06-26T12:31:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2008-2010-ford-f-series-6-4l-diesel-particulate-filter-dpf-and-diesel-oxidation-catalust-doc-installation-kit"/>
+    <title>2008-2010 Ford F-Series 6.4L Diesel Particulate Filter (DPF) and Diesel Oxidation Catalust (DOC) Installation Kit</title>
+    <s:type>Engine Accessories</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-Image-Not-Available_ac2cd7d8-3730-4ebf-9d9b-999f0d065057.png?v=1540805956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Engine Accessories<br>
+        <strong>Price: </strong>
+            122.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2008-2010 Ford F-Series 6.4L Diesel Particulate Filter (DPF) and Diesel Oxidation Catalust (DOC) Installation Kit</p>
+<p> </p>
+<p>Alternate part number: AP0134</p>
+<p>Notes: Installation kit only.  If DPF is needed see AP70000 or AP700001 Diesel Particulate Filter (DPF). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.4L</s:tag>
+    <s:tag>DPF</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1514104848466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">122.00</s:price>
+      <s:sku>DPC-AP0134</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2494809440338</id>
+    <published>2019-04-24T09:34:05-06:00</published>
+    <updated>2019-04-24T09:34:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/ford-navistar-gm-john-deere-izuzu-injector-brush-kit"/>
+    <title>Ford Navistar GM John Deere Izuzu Injector Brush Kit</title>
+    <s:type>Tools</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/AP0085.JPG?v=1556531464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Tools<br>
+        <strong>Price: </strong>
+            81.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ford Navistar GM John Deere Izuzu Injector Brush Kit </p>
+<p>Alternate part number- AP0085</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>LB7</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2494809440338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>DPC-AP0085</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1514127032402</id>
+    <published>2018-10-24T15:39:06-06:00</published>
+    <updated>2018-10-24T15:39:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2008-2010-ford-6-4l-f-series-replacement-fuel-pump"/>
+    <title>2008-2010 Ford 6.4L F-Series Replacement Fuel Pump</title>
+    <s:type>Fuel System Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-Image-Not-Available_1e9e43c2-09a4-4f5c-924f-7d1a229a535f.png?v=1540805954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Fuel System Components<br>
+        <strong>Price: </strong>
+            210.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2008-2010 Ford 6.4L F-250/F-550 Replacement Fuel Pump</p>
+<p>Alternate numbers: 8C3Z9G282A, PS423, HFP965 and PFF58529</p>
+<p>Notes: Does not include housing (see AP63450)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.4L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1514127032402</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">210.00</s:price>
+      <s:sku>DPC-PFP58529</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1514114285650</id>
+    <published>2018-10-24T15:03:37-06:00</published>
+    <updated>2018-10-24T15:03:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2008-2010-ford-6-4l-f-series-primary-belt-tensioner"/>
+    <title>2008-2010 Ford 6.4L F-Series Primary Belt Tensioner</title>
+    <s:type>Engine Accessories</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/ap63519.jpg?v=1540805953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Engine Accessories<br>
+        <strong>Price: </strong>
+            188.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2008-2010 Ford 6.4L F-250/F-550 Primary Belt Tensioner</p>
+<p>Alternate numbers: 7C3Z6B209E, BT122 and AP63519</p>
+<p>Notes: Primary Belt Tensioner</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.4L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1514114285650</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">188.00</s:price>
+      <s:sku>DPC-AP63519</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1514111139922</id>
+    <published>2018-10-24T14:41:52-06:00</published>
+    <updated>2018-10-24T14:41:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2008-2010-ford-f-series-accessory-belt-tensioner"/>
+    <title>2008-2010 Ford F-Series Accessory Belt Tensioner</title>
+    <s:type>Engine Accessories</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/AP63517.jpg?v=1540805957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Engine Accessories<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2008-2010 Ford F-250 / F-550 Accessory Belt Tensioner</p>
+<p>Alternate notes: 7C3Z6B209B, BT91 and AP63517</p>
+<p>Notes: Accessory Belt Tensioner </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.4L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1514111139922</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">189.00</s:price>
+      <s:sku>DPC-AP63517</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1514107437138</id>
+    <published>2018-10-24T14:36:07-06:00</published>
+    <updated>2018-10-24T14:36:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2008-2010-ford-6-4l-f-series-fan-clutch"/>
+    <title>2008-2010 Ford 6.4L F-Series Fan Clutch</title>
+    <s:type>Engine Accessories</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/ap63518.jpg?v=1540805952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Engine Accessories<br>
+        <strong>Price: </strong>
+            512.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2008-2010 Ford 6.4L F-250/F-550 Fan Clutch</p>
+<p>Alternate numbers: 8C3Z8A616S, YB3126 and AP63518</p>
+<p>Notes: With snow plow package</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.4L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1514107437138</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">512.00</s:price>
+      <s:sku>DPC-AP63518</s:sku>
+      <s:grams>3289</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1514106257490</id>
+    <published>2018-10-24T14:21:25-06:00</published>
+    <updated>2018-10-24T14:21:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2008-2010-ford-f-series-6-4l-fan-clutch"/>
+    <title>2008-2010 Ford F-Series 6.4L Fan Clutch</title>
+    <s:type>Engine Accessories</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/AP63499.JPG?v=1540805957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Engine Accessories<br>
+        <strong>Price: </strong>
+            609.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2008-2010 Ford F-250/F-550 6.4L Fan Clutch</p>
+<p>Alternate numbers: 7C3Z8A616F, YB3125 and AP63499</p>
+<p>Notes: Without snow plow package</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.4L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1514106257490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">609.00</s:price>
+      <s:sku>DPC-AP63499</s:sku>
+      <s:grams>3289</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485767409746</id>
+    <published>2018-08-30T12:01:18-06:00</published>
+    <updated>2018-08-30T12:01:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2-piece-specialty-pick-set"/>
+    <title>2 Piece Specialty Pick Set</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Pick_Set.jpg?v=1535966697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Piece Specialty Pick Set</p>
+<p>Hardened tips, and knurled center grips for easily removing and installing o-rings and seals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485767409746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>DPC-W80750</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485764395090</id>
+    <published>2018-08-30T11:56:56-06:00</published>
+    <updated>2018-08-30T11:56:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/6-stainless-steel-magnetic-bowl"/>
+    <title>6&quot; Stainless Steel Magnetic Bowl</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Magnetic_Tray.jpg?v=1535969471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6" Stainless Steel Magnetic Bowl</p>
+<p>6" x 1.2" depth magnetic bowl for keeping all your nuts and bolts in one place.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>Fuel Pump</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485764395090</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>DPC-636-001</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485762035794</id>
+    <published>2018-08-30T11:48:07-06:00</published>
+    <updated>2018-08-30T11:48:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/brakleen-original-non-flammable-parts-cleaner-539-gram-aerosol-can"/>
+    <title>Brakleen Original Non-flammable Parts Cleaner 539 Gram Aerosol Can</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Brakleen.jpg?v=1535969476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brakleen Original Non-flammable Parts Cleaner 539 Gram Aerosol Can</p>
+<p>The original Brakleen, our premium strength formula. Chlorinated formula quickly removes dust, fluid, grease and other contaminants. Great for all brake systems and so much more. Cleans fast and dries faster.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485762035794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>DPC-75089</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485760790610</id>
+    <published>2018-08-30T11:40:08-06:00</published>
+    <updated>2018-08-30T11:40:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/telescoping-magnetic-pickup"/>
+    <title>Telescoping Magnetic Pickup</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Pullout_magnet.jpg?v=1579514304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Telescoping Magnetic Pickup</p>
+<p>Magnetic pickup for retrieving screws, nuts, and nails from hard to reach places.</p>
+<p>Extends 5.25" to 23" and holds up to 7 lbs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485760790610</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>DPC-07568B</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485759348818</id>
+    <published>2018-08-30T11:30:17-06:00</published>
+    <updated>2018-08-30T11:30:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/liquid-wrench-170-gram-aerosol-can-of-penetrating-oil"/>
+    <title>Liquid Wrench 170 Gram Aerosol Can of Penetrating Oil</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Liquid_Wrench.jpg?v=1579514294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Liquid Wrench 170 Gram Aerosol Can of Penetrating Oil</p>
+<p>A powerful blend of quick-acting, fast penetrating solvents that loosens rusted nuts, bolts and parts in seconds.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485759348818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>DPC-L106C</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485756268626</id>
+    <published>2018-08-30T11:21:43-06:00</published>
+    <updated>2018-08-30T11:21:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/loctite-242-threadlocker-medium-strength-removable"/>
+    <title>Loctite 242 Threadlocker Medium Strength, Removable</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Loctite_242_6ml.jpg?v=1579514295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Loctite 242 Threadlocker Medium Strength, Removable</p>
+<p>Removable strength, general purpose threadlocking adhesive well suited for fasteners between 1/4" and 3/4" diameter (6 to 20 mm). Applied to threaded components before assembly, parts can be separated using hand tools.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485756268626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>DPC-38621</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485750534226</id>
+    <published>2018-08-30T10:53:29-06:00</published>
+    <updated>2018-08-30T10:53:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/dielectric-grease-0-33-oz-tube"/>
+    <title>Dielectric Grease 0.33 oz Tube</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Loctite_30536.jpg?v=1535969486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dielectric Grease 0.33 oz Tube</p>
+<p>Provides a moisture-proof barrier that lubricates and protects electrical equipment from salt, dirt, and corrosion. High dielectric strength. Good thermal, oxidation, and chemical stability.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485750534226</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>DPC-30536</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485745324114</id>
+    <published>2018-08-30T10:12:27-06:00</published>
+    <updated>2018-08-30T10:12:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/wd-40-311-gram-aerosol-can"/>
+    <title>WD-40 - 311 gram Aerosol Can</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/WD-40.jpg?v=1579514306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> WD-40 - 311 gram Aerosol Can </p>
+<p>Known as "the can with thousands of uses," WD-40 protects metal from rust and corrsion, penetrates stuck parts, displaces moisture, and lubricates just about anything.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Fuel Pump</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>Performance</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485745324114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>DPC-01011</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1406393155666</id>
+    <published>2018-05-31T15:06:28-06:00</published>
+    <updated>2018-05-31T15:06:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2008-2010-f250-f550-6-4l-ford-power-stroke-thermostat-kit"/>
+    <title>2008-2010 F250 / F550 6.4L Ford Power Stroke Thermostat Kit</title>
+    <s:type>Engine Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/AP63498.JPG?v=1528104708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Engine Components<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2008-2010 F250 / F550 6.4L Ford Power Stroke Thermostat Kit</p>
+<p>Alternate part numbers: 8C3Z8575D, RT1212, and AP63498</p>
+<p>Applications:</p>
+<ul>
+<li>2008-2010 F250 / F550</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.4L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1406393155666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>DPC-AP63498</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1406390009938</id>
+    <published>2018-05-31T14:37:37-06:00</published>
+    <updated>2018-05-31T14:37:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2008-2010-f250-f550-diesel-particulate-filter-pressure-dpfp-sensor-fitting"/>
+    <title>2008-2010 F250 / F550 6.4L Ford Diesel Particulate Filter Pressure (DPFP) Sensor Fitting</title>
+    <s:type>Engine Accessories</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-Image-Not-Available_d531e100-e1b1-49cf-8747-28e629cb52ae.png?v=1528104707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Engine Accessories<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2008-2010 F250 / F550 6.4L Ford Diesel Particulate Filter Pressure (DPFP) Sensor Fitting</p>
+<p>Alternate part numbers: 7C3Z9J454A, and AP0164</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.4L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1406390009938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>DPC-AP0164</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/7721545605</id>
+    <published>2017-05-01T11:52:21-06:00</published>
+    <updated>2017-05-01T11:52:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2008-2010-ford-powerstroke-6-4l-glow-plug-wiring-harness"/>
+    <title>2008-2010 Ford PowerStroke 6.4L Glow Plug Wiring Harness Right Hand Side</title>
+    <s:type>Electrical Harness and Repair</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/904-411-1.JPG?v=1527499862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Electrical Harness and Repair<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2008-2010 Ford PowerStroke 6.4L Glow Plug Wiring Harness Right hand Side</p>
+<p><span>Protect your vehicle against potential oil leaks, a hard start or no start condition with this Diesel Glow Plug Harness. Providing power to the vehicle glow plugs, this direct replacement harness is constructed of high quality materials for long-lasting durability.</span></p>
+<p><span>Alternate part numbers: 1876293C1 and 8C3Z-12A690-BA</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.4L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/7721545605</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>DPC-904-411</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>

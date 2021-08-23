@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dieselpartscanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dieselpartscanada.ca/collections/starters-and-alternators.atom"/>
+  <title>Diesel Parts Canada</title>
+  <updated>2016-05-04T15:25:00-06:00</updated>
+  <author>
+    <name>Diesel Parts Canada</name>
+  </author>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/5570188741</id>
+    <published>2016-05-04T15:25:00-06:00</published>
+    <updated>2016-05-04T15:25:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2007-2009-jeep-3-0l-2007-2009-sprinter-3-0l-bosch-alternator"/>
+    <title>2007-2009 Jeep 3.0L, 2007-2009 Sprinter 3.0L Bosch Alternator</title>
+    <s:type>Engine Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/AL0843N.JPG?v=1527499838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Engine Components<br>
+        <strong>Price: </strong>
+            579.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2007-2009 Jeep 3.0L, 2007-2009 Sprinter 3.0L  Bosch Alternator</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/5570188741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">579.00</s:price>
+      <s:sku>DPC-AL0843N</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/418416432</id>
+    <published>2015-02-06T15:50:48-07:00</published>
+    <updated>2015-02-06T15:50:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2003-2011-isuzu-duramax-remanufactured-starter"/>
+    <title>2001-2006 Isuzu Duramax Remanufactured Starter</title>
+    <s:type>Engine Accessories</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/s14-101dam.jpeg?v=1538386303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Engine Accessories<br>
+        <strong>Price: </strong>
+            487.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>2001-2006 Isuzu Duramax New Starter</b></p>
+<hr>
+<p>Alternate Part Numbers: S14-101DAM, 280-3134, 336-1737, and 88864234</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/418416432</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">487.00</s:price>
+      <s:sku>DPC-280-3134</s:sku>
+      <s:grams>13154</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/418416320</id>
+    <published>2015-02-06T15:50:39-07:00</published>
+    <updated>2015-02-06T15:50:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2008-2010-ford-64-l-powerstroke-starter"/>
+    <title>2008-2010 Ford 6.4 L PowerStroke Starter</title>
+    <s:type>Engine Accessories</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/ap83007.jpeg?v=1527499856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Engine Accessories<br>
+        <strong>Price: </strong>
+            476.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>2008-2010 Ford 6.4 L PowerStroke Starter</b></p>
+<p>Application: F Series</p>
+<hr>
+<p>Alliant Power Part Number: AP83007</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.4L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/418416320</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">476.00</s:price>
+      <s:sku>DPC-AP83007</s:sku>
+      <s:grams>13154</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/418414740</id>
+    <published>2015-02-06T15:48:32-07:00</published>
+    <updated>2015-02-06T15:48:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2003-2006-cummins-isb-starter"/>
+    <title>2003-2006 Cummins ISB Starter</title>
+    <s:type>Engine Accessories</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/428000-5940.jpeg?v=1527499806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Engine Accessories<br>
+        <strong>Price: </strong>
+            419.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>2003-2006 Cummins ISB Starter</b></p>
+<p>Application: with Common Rail</p>
+<hr>
+<p>Alliant Power Part Number: 428000-5940</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5.9L</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/418414740</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">419.00</s:price>
+      <s:sku>DPC-428000-5940</s:sku>
+      <s:grams>13154</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/418414732</id>
+    <published>2015-02-06T15:48:31-07:00</published>
+    <updated>2015-02-06T15:48:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/1994-1998-cummins-b-series-12-valve-starter-1998-2002-cummins-isb-starter"/>
+    <title>1994-1998 Cummins B-Series, 12-valve Starter, 1998-2002 Cummins ISB Starter</title>
+    <s:type>Engine Accessories</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/228000-2292.jpeg?v=1527499760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Engine Accessories<br>
+        <strong>Price: </strong>
+            445.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>1994-1998 Cummins B-Series, 12-valve Starter</b></p>
+<p><b>1998-2002 Cummins ISB Starter</b></p>
+<p>Application: with VP44</p>
+<hr>
+<p>Alternate part numbers: 228000-2292, 3921682, and 5016522AA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cummins</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/418414732</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">445.00</s:price>
+      <s:sku>DPC-228000-2292</s:sku>
+      <s:grams>13154</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/5530233861</id>
+    <published>2014-07-30T17:15:00-06:00</published>
+    <updated>2014-07-30T17:15:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/diamond-gard-1998-current-brushless-pad-mount-a200-5-wire-12v-alternator"/>
+    <title>Diamond Gard 1998-Current Brushless, Pad Mount, A200, 5-wire 12V Alternator</title>
+    <s:type>Engine Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AM1771-2_5b1ac2b9-1fc5-4d11-b3f5-a89ec65fe5cc.jpg?v=1527502036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Engine Components<br>
+        <strong>Price: </strong>
+            575.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p> </p>
+<p>Diamond Gard 1998-Current Brushless, Pad Mount, 200A, 5-wire 12V Alternator</p>
+<p> </p>
+<p><span style="line-height: 1.2;">Application: </span></p>
+<p><span style="line-height: 1.2;">1998-Current </span>heavy duty vehicle with pad mounted alternator</p>
+<div></div>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<ul>
+<li>Diamond-Gard Alternators are designed to last over 1,000,000 miles</li>
+<li>Best in class efficiency puts money in your pocket</li>
+<li>One part number is a direct replacement for ALL Remy, Leece-Neville, BOSCH, and Denso PAD-mount alternators</li>
+<li>Supports up to 5-wire connection (including remote sense)</li>
+<li>Exceeds 135 amps output at idle</li>
+<li>Exceeds industry requirements for heat, vibration, and corrosion resistance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/5530233861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">575.00</s:price>
+      <s:sku>DPC-AM0071</s:sku>
+      <s:grams>10002</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351612713</id>
+    <published>2014-07-30T17:15:00-06:00</published>
+    <updated>2014-07-30T17:15:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/diamond-gard-1998-current-brushless-pad-mount-160a-5-wire-12v-alternator"/>
+    <title>Diamond Gard 1998-Current Brushless, Pad Mount, 160A, 5-wire 12V Alternator</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AM1771-2.jpg?v=1527502035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p> </p>
+<p>Diamond Gard 1998-Current Brushless, Pad Mount, 160A, 5-wire 12V Alternator</p>
+<p> </p>
+<p><span style="line-height: 1.2;">Application: </span></p>
+<p><span style="line-height: 1.2;">1998-Current </span>heavy duty vehicle with pad mounted alternator</p>
+<div></div>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Diamond-Gard Alternators are designed to last over 1,000,000 miles</li>
+<li>Best in class efficiency puts money in your pocket</li>
+<li>One part number is a direct replacement for ALL Remy, Leece-Neville, BOSCH, and Denso PAD-mount alternators</li>
+<li>Supports up to 5-wire connection (including remote sense)</li>
+<li>Exceeds 100 amps output at idle</li>
+<li>Exceeds industry requirements for heat, vibration, and corrosion resistance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351612713</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">399.00</s:price>
+      <s:sku>DPC-AM1771</s:sku>
+      <s:grams>10002</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351608425</id>
+    <published>2014-07-30T17:04:00-06:00</published>
+    <updated>2014-07-30T17:04:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/peterbilt-1998-2006-cat-c15-c15-acert-12v-starter"/>
+    <title>Peterbilt 1998-2006 CAT C15 / C15 ACERT 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-2_e3e2ad44-a0ea-4f05-8be9-0ca279018960.jpg?v=1527008337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p></p>
+<p><span style="line-height: 1.2;">Application: </span></p>
+<p><span style="line-height: 1.2;">Peterbilt Only </span></p>
+<p><span style="line-height: 1.2;">1998-2006 CAT C15 / C15 ACERT </span></p>
+<p></p>
+<p><span>*Note: Product may not be exactly as shown</span></p>
+<p></p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351608425</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-PC0979</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351606129</id>
+    <published>2014-07-30T16:58:00-06:00</published>
+    <updated>2014-07-30T16:58:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/prevost-bus-1998-2009-detroit-diesel-s60-24v-starter"/>
+    <title>Prevost Bus 1998-2009 Detroit Diesel S60 24V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-9_6c715b18-6895-44ac-b7e1-cff671740095.jpg?v=1527008428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p></p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p>Prevost Bus</p>
+<p>1998-2009 Detroit Diesel S60</p>
+<p></p>
+<p><span>*Note: Product may not be exactly as shown</span></p>
+<p></p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351606129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-PV2479</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351604969</id>
+    <published>2014-07-30T16:55:00-06:00</published>
+    <updated>2014-07-30T16:55:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/mci-motorcoach-1998-2003-detroit-diesel-s60-2004-current-cat-c12-2007-current-cat-c13-1998-current-cummins-ism-24v-starter"/>
+    <title>MCI Motorcoach 1998-2003 Detroit Diesel S60, 2004-Current CAT C12, 2007-Current CAT C13, 1998-Current Cummins ISM 24V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-10_5b520644-167a-4544-9e7b-b8229d1dcafd.jpg?v=1527008303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            419.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p></p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p>MCI Motorcoach</p>
+<p>1998-2003 Detroit Diesel S60</p>
+<p>2004-Current CAT C12</p>
+<p>2007-Current CAT C13 ACERT</p>
+<p>1998-Current Cummins ISM</p>
+<p></p>
+<p><span>*Note: Product may not be exactly as shown</span></p>
+<p></p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351604969</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">419.00</s:price>
+      <s:sku>DPC-MC2378</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351603865</id>
+    <published>2014-07-30T16:53:00-06:00</published>
+    <updated>2014-07-30T16:53:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/mack-1998-2006-mack-e-7-aset-12v-starter"/>
+    <title>Mack 1998-2006 Mack E-7 ASET 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-11_a9a4a31c-d1f1-4701-a936-fa15ceba6663.jpg?v=1527008290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p></p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p>Mack</p>
+<p>1998-2006 Mack E-7 ASET</p>
+<p></p>
+<p><span>*Note: Product may not be exactly as shown</span></p>
+<p></p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mack</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351603865</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-MK0077</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351602985</id>
+    <published>2014-07-30T16:51:00-06:00</published>
+    <updated>2014-07-30T16:51:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/volvo-2007-current-volvo-d13-12v-starter"/>
+    <title>Volvo 2007-Current Volvo D13 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-2_fc64c0e7-d84a-4a27-b375-9c3899cdf1fa.jpg?v=1518626181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p></p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p>Volvo</p>
+<p>2007-Current Volvo D13</p>
+<p></p>
+<p><span>*Note: Product may not be exactly as shown</span></p>
+<p></p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Volvo</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351602985</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-VV2079</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351602445</id>
+    <published>2014-07-30T16:49:00-06:00</published>
+    <updated>2014-07-30T16:49:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/volvo-2007-current-volvo-d11-12v-starter"/>
+    <title>Volvo 2007-Current Volvo D11 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379_94bfa7e1-0111-4f5a-b6e0-a896566cfdde.jpg?v=1527009030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p></p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p>Volvo</p>
+<p>2007-Current Volvo D11</p>
+<p></p>
+<p><span>*Note: Product may not be exactly as shown</span></p>
+<p></p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Volvo</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351602445</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-VV1076</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351601905</id>
+    <published>2014-07-30T16:48:00-06:00</published>
+    <updated>2014-07-30T16:48:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/volvo-2007-current-cummins-isx-12v-starter"/>
+    <title>Volvo 2007-Current Cummins ISX 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-11_0bb0a2a2-f5db-4223-85b3-9dac4f2e05fe.jpg?v=1527008964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p></p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p>Volvo</p>
+<p>2007-Current Cummins ISX</p>
+<p></p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351601905</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-VV0776</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351600665</id>
+    <published>2014-07-30T16:46:00-06:00</published>
+    <updated>2014-07-30T16:46:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/volvo-2002-2006-cummins-isx-12v-starter"/>
+    <title>Volvo 2002-2006 Cummins ISX 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-10_ef8de7fc-2561-4a8e-99de-7d151086eb87.jpg?v=1527008915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p></p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p>Volvo</p>
+<p>2002-2006 Cummins ISX</p>
+<p></p>
+<p><span>*Note: Product may not be exactly as shown</span></p>
+<p></p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351600665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-VV0977</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351599749</id>
+    <published>2014-07-30T16:45:00-06:00</published>
+    <updated>2014-07-30T16:45:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/volvo-1998-2006-volvo-d12-12v-starter"/>
+    <title>Volvo 1998-2006 Volvo D12 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-8_8514bd3b-ae72-41b5-a0a3-78a7f95e1d19.jpg?v=1527008765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p></p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p>Volvo</p>
+<p>1998-2006 Volvo D12</p>
+<p></p>
+<p><span>*Note: Product may not be exactly as shown</span></p>
+<p></p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Volvo</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351599749</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-VV0279</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351598697</id>
+    <published>2014-07-30T16:43:00-06:00</published>
+    <updated>2014-07-30T16:43:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/international-2010-current-navistar-maxxforce-11-13-12v-starter"/>
+    <title>International 2010-Current Navistar MaxxForce 11 / 13 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-9_c008fafc-df30-4a97-ba05-cf4de46d9eb1.jpg?v=1527008234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p></p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p><span style="line-height: 1.2;">International </span></p>
+<p><span style="line-height: 1.2;">2010-Current Navistar MaxxForce 11 / 13</span></p>
+<p></p>
+<p><span>*Note: Product may not be exactly as shown</span></p>
+<p></p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>International</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351598697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-IN3179</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351597657</id>
+    <published>2014-07-30T16:41:00-06:00</published>
+    <updated>2014-07-30T16:41:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/international-1998-current-navistar-dt466-dt530-ht570-1998-current-navistar-maxxforce-dt9-dt10-12v-starter"/>
+    <title>International 1998-Current Navistar DT466 / DT530 / HT570, 1998-Current Navistar MaxxForce DT9 / DT10 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-8_4a3f89d9-58b0-4b2c-8565-597f0e756ed1.jpg?v=1527008224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p> </p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p><span style="line-height: 1.2;">International </span></p>
+<p><span style="line-height: 1.2;">1998-Current Navistar DT466 / DT530 / HT570</span></p>
+<p><span style="line-height: 1.2;">1998-Current Navistar MaxxForce DT9 / DT10</span></p>
+<p> </p>
+<p><span>*Note: Product may not be exactly as shown</span></p>
+<p> </p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>International</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351597657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-IN1378</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351595297</id>
+    <published>2014-07-30T16:37:00-06:00</published>
+    <updated>2014-07-30T16:37:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/international-1998-current-cummins-isx-ism-n14-m11-1998-2003-cat-c12-c15-2004-2009-cat-c13-c15-navistar-maxxforce-15-12v-starter"/>
+    <title>International 1998-Current Cummins ISX / ISM / N14 / M11, 1998-2003 CAT C12 / C15, 2004-2009 CAT C13 / C15, Navistar MaxxForce 15  12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-6_4bd90526-cee0-467d-b99d-12b4bc9a057d.jpg?v=1527008213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p> </p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p><span style="line-height: 1.2;">International </span></p>
+<p><span style="line-height: 1.2;">1998-Current Cummins ISX / ISM / N14 / M11</span></p>
+<p><span style="line-height: 1.2;">1998-2003 CAT C12 / C15</span></p>
+<p><span style="line-height: 1.2;">2004-2009 CAT C13 / C15 ACERT</span></p>
+<p><span style="line-height: 1.2;">Navistar MaxxForce 15 </span></p>
+<p> </p>
+<p><span style="line-height: 1.2;"><span>*Note: Product may not be exactly as shown</span></span></p>
+<p> </p>
+<p> </p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351595297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-IN1478</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351593841</id>
+    <published>2014-07-30T16:34:00-06:00</published>
+    <updated>2014-07-30T16:34:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/freightliner-and-sterling-2007-2010-detroit-diesel-s60-12-7l-and-14l-12v-starter"/>
+    <title>Freightliner and Sterling 2007-2010 Detroit Diesel S60 12.7L and 14L 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-5_b1105608-6ab6-4f32-a001-dcd00c7ba13d.jpg?v=1527502104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p> </p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p>Freightliner and Sterling</p>
+<p><span style="line-height: 1.2;">2007-2010 Detroit Diesel S60 12.7L and 14L </span></p>
+<p> </p>
+<p><span>*Note: Product may not be exactly as shown</span></p>
+<p> </p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351593841</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-FL0777</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351592785</id>
+    <published>2014-07-30T16:33:00-06:00</published>
+    <updated>2014-07-30T16:33:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/freightliner-and-sterling-2007-current-cat-hd-engine-12v-starter"/>
+    <title>Freightliner and Sterling 2007-Current CAT HD Engine 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-6_5b65147e-ef30-4d08-9632-3b1cecc95f16.jpg?v=1527502105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p> </p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p>Freightliner and Sterling</p>
+<p><span style="line-height: 1.2;">2007-Current CAT HD Engine </span></p>
+<p> </p>
+<p><span>*Note: Product may not be exactly as shown</span></p>
+<p> </p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351592785</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-FL0975</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351591133</id>
+    <published>2014-07-30T16:30:00-06:00</published>
+    <updated>2014-07-30T16:30:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/freightliner-and-sterling-1998-2006-detroid-diesel-s60-1998-2003-cat-c10-c12-c15-2004-2006-cat-c11-c13-c15-1998-2002-cummins-isx-ism-n14-12v-starter"/>
+    <title>Freightliner and Sterling 1998-2006 Detroit Diesel S60, 1998-2003 CAT C10 / C12 / C15, 2004-2006 CAT C11 / C13 / C15, 1998-2002 Cummins ISX / ISM / N14 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-3.jpg?v=1527502102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p> </p>
+<p>Part Number: FL0579</p>
+<p> </p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p>Freightliner and Sterling</p>
+<p>1998-2006 Detroit Diesel S60</p>
+<p>1998-2003 CAT C10 / C12 / C15</p>
+<p>2004-2006 CAT C11 / C13 / C15 ACERT</p>
+<p>1998-2002 Cummins ISX / ISM / N14 12V Starter</p>
+<p> </p>
+<p>*Note: Product may not be exactly as shown</p>
+<p> </p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351591133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-FL0579</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351589397</id>
+    <published>2014-07-30T16:26:00-06:00</published>
+    <updated>2014-07-30T16:26:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/freightliner-and-sterling-2001-2010-mercedes-benz-4000-12v-starter"/>
+    <title>Freightliner and Sterling 2001-2010 Mercedes Benz 4000 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-4_eac08a28-f4dd-4182-b156-7fa530070673.jpg?v=1527502103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p> </p>
+<p>Part Number: FL1179</p>
+<p> </p>
+<p><span style="line-height: 1.2;">Application: </span></p>
+<p><span style="line-height: 1.2;">Freightliner and Sterling </span></p>
+<p><span style="line-height: 1.2;">2001-2010 Mercedes Benz 4000 12V Starter</span></p>
+<p> </p>
+<p><span style="line-height: 1.2;"><span>*Note: Product may not be exactly as shown</span></span></p>
+<p> </p>
+<p> </p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>Mercedes Benz</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351589397</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-FL1179</s:sku>
+      <s:grams>13154</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351587505</id>
+    <published>2014-07-30T16:23:00-06:00</published>
+    <updated>2014-07-30T16:23:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/freightliner-and-sterling-dd13-and-dd15-engine-12v-starter"/>
+    <title>Freightliner and Sterling DD13 and DD15 Engine 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-7_ca0861fb-f768-4649-852d-c8cb00c9c450.jpg?v=1527502105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p> </p>
+<p>Part Number: FL0189</p>
+<p> </p>
+<p><span style="line-height: 1.2;">Application: </span></p>
+<p><span style="line-height: 1.2;">Freightliner and Sterling </span></p>
+<p><span style="line-height: 1.2;">DD13 and DD15 Engine 12V Starter</span></p>
+<p> </p>
+<p><span style="line-height: 1.2;"><span>*Note: Product may not be exactly as shown</span></span></p>
+<p> </p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351587505</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-FL0189</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351584497</id>
+    <published>2014-07-30T16:20:00-06:00</published>
+    <updated>2014-07-30T16:20:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/peterbilt-and-kenworth-2010-current-paccar-mx-engine-oe-only-12v-starter"/>
+    <title>Peterbilt and Kenworth 2010-Current PACCAR MX Engine (OE Only) 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379_c9b987c3-1332-4c6b-a9a4-a6a57d626ae2.jpg?v=1518625866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p></p>
+<p>Part Number: PC2578</p>
+<p>Starter Relay Part Number: 12-8683</p>
+<p>Starer Solenoid Part Number: 12-11781</p>
+<p></p>
+<p>Application:</p>
+<p>Peterbilt and Kenworth</p>
+<p>2010-Current PACCAR MX Engine (OE Only) 12V Starter</p>
+<p><span style="line-height: 1.2;"> </span></p>
+<p><span style="line-height: 1.2;"><span>*Note: Product may not be exactly as shown</span></span></p>
+<p></p>
+<p></p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351584497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">429.00</s:price>
+      <s:sku>DPC-PC2578</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+</feed>

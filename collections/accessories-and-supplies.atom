@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dieselpartscanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dieselpartscanada.ca/collections/accessories-and-supplies.atom"/>
+  <title>Diesel Parts Canada</title>
+  <updated>2019-05-17T11:07:31-06:00</updated>
+  <author>
+    <name>Diesel Parts Canada</name>
+  </author>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2522734854226</id>
+    <published>2019-05-17T11:07:31-06:00</published>
+    <updated>2019-05-17T11:07:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/archoil-friction-modifier"/>
+    <title>Archoil AR9100 Friction Modifier</title>
+    <s:type>Additive</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/IMGL2016.jpg?v=1558346414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Additive<br>
+        <strong>Price: </strong>
+            32.00 - 325.00
+            <a href="https://dieselpartscanada.ca/products/archoil-friction-modifier">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Jug of Archoil Friction Modifier</strong></p>
+<p><strong>AR9100 </strong>forms a solid boundary lubricating film on friction surfaces which demostartes excellent load carrying, anti-corrosion &amp; antiwear properties. AR9100's esters gently remove fluid system deposits while improving the antioxidative, extreme pressure &amp; film forming properties of its host oil.</p>
+<ul>
+<li>Reduces Engine Noise, Vibration &amp; Friction Heat</li>
+<li>Protects Engine During Cold Starts</li>
+<li>Reduces wear &amp; Extends Component Life</li>
+<li>Gently Cleans Engine Deposits</li>
+<li>Eliminates Ford Powerstroke 6.0L &amp; 7.3L</li>
+</ul>
+<p> </p>
+<meta charset="utf-8">
+<p> AR9100</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2522734854226</id>
+      <title>8 oz</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>DPC-AR9100-8</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2522734854226</id>
+      <title>16 oz</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>DPC-AR9100-16</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2522734854226</id>
+      <title>128 oz</title>
+      <s:price currency="CAD">325.00</s:price>
+      <s:sku>AR9100-1G</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2494809440338</id>
+    <published>2019-04-24T09:34:05-06:00</published>
+    <updated>2019-04-24T09:34:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/ford-navistar-gm-john-deere-izuzu-injector-brush-kit"/>
+    <title>Ford Navistar GM John Deere Izuzu Injector Brush Kit</title>
+    <s:type>Tools</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/AP0085.JPG?v=1556531464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Tools<br>
+        <strong>Price: </strong>
+            81.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ford Navistar GM John Deere Izuzu Injector Brush Kit </p>
+<p>Alternate part number- AP0085</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>LB7</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2494809440338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>DPC-AP0085</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485767409746</id>
+    <published>2018-08-30T12:01:18-06:00</published>
+    <updated>2018-08-30T12:01:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2-piece-specialty-pick-set"/>
+    <title>2 Piece Specialty Pick Set</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Pick_Set.jpg?v=1535966697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Piece Specialty Pick Set</p>
+<p>Hardened tips, and knurled center grips for easily removing and installing o-rings and seals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485767409746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>DPC-W80750</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485764395090</id>
+    <published>2018-08-30T11:56:56-06:00</published>
+    <updated>2018-08-30T11:56:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/6-stainless-steel-magnetic-bowl"/>
+    <title>6&quot; Stainless Steel Magnetic Bowl</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Magnetic_Tray.jpg?v=1535969471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6" Stainless Steel Magnetic Bowl</p>
+<p>6" x 1.2" depth magnetic bowl for keeping all your nuts and bolts in one place.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>Fuel Pump</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485764395090</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>DPC-636-001</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485762035794</id>
+    <published>2018-08-30T11:48:07-06:00</published>
+    <updated>2018-08-30T11:48:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/brakleen-original-non-flammable-parts-cleaner-539-gram-aerosol-can"/>
+    <title>Brakleen Original Non-flammable Parts Cleaner 539 Gram Aerosol Can</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Brakleen.jpg?v=1535969476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brakleen Original Non-flammable Parts Cleaner 539 Gram Aerosol Can</p>
+<p>The original Brakleen, our premium strength formula. Chlorinated formula quickly removes dust, fluid, grease and other contaminants. Great for all brake systems and so much more. Cleans fast and dries faster.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485762035794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>DPC-75089</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485760790610</id>
+    <published>2018-08-30T11:40:08-06:00</published>
+    <updated>2018-08-30T11:40:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/telescoping-magnetic-pickup"/>
+    <title>Telescoping Magnetic Pickup</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Pullout_magnet.jpg?v=1579514304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Telescoping Magnetic Pickup</p>
+<p>Magnetic pickup for retrieving screws, nuts, and nails from hard to reach places.</p>
+<p>Extends 5.25" to 23" and holds up to 7 lbs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485760790610</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>DPC-07568B</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485759348818</id>
+    <published>2018-08-30T11:30:17-06:00</published>
+    <updated>2018-08-30T11:30:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/liquid-wrench-170-gram-aerosol-can-of-penetrating-oil"/>
+    <title>Liquid Wrench 170 Gram Aerosol Can of Penetrating Oil</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Liquid_Wrench.jpg?v=1579514294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Liquid Wrench 170 Gram Aerosol Can of Penetrating Oil</p>
+<p>A powerful blend of quick-acting, fast penetrating solvents that loosens rusted nuts, bolts and parts in seconds.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485759348818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>DPC-L106C</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485756268626</id>
+    <published>2018-08-30T11:21:43-06:00</published>
+    <updated>2018-08-30T11:21:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/loctite-242-threadlocker-medium-strength-removable"/>
+    <title>Loctite 242 Threadlocker Medium Strength, Removable</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Loctite_242_6ml.jpg?v=1579514295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Loctite 242 Threadlocker Medium Strength, Removable</p>
+<p>Removable strength, general purpose threadlocking adhesive well suited for fasteners between 1/4" and 3/4" diameter (6 to 20 mm). Applied to threaded components before assembly, parts can be separated using hand tools.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485756268626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>DPC-38621</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485750534226</id>
+    <published>2018-08-30T10:53:29-06:00</published>
+    <updated>2018-08-30T10:53:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/dielectric-grease-0-33-oz-tube"/>
+    <title>Dielectric Grease 0.33 oz Tube</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Loctite_30536.jpg?v=1535969486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dielectric Grease 0.33 oz Tube</p>
+<p>Provides a moisture-proof barrier that lubricates and protects electrical equipment from salt, dirt, and corrosion. High dielectric strength. Good thermal, oxidation, and chemical stability.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485750534226</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>DPC-30536</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485745324114</id>
+    <published>2018-08-30T10:12:27-06:00</published>
+    <updated>2018-08-30T10:12:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/wd-40-311-gram-aerosol-can"/>
+    <title>WD-40 - 311 gram Aerosol Can</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/WD-40.jpg?v=1579514306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> WD-40 - 311 gram Aerosol Can </p>
+<p>Known as "the can with thousands of uses," WD-40 protects metal from rust and corrsion, penetrates stuck parts, displaces moisture, and lubricates just about anything.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Fuel Pump</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>Performance</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485745324114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>DPC-01011</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1454052966482</id>
+    <published>2018-07-20T11:19:02-06:00</published>
+    <updated>2018-07-20T11:19:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/10-litre-jug-of-diesel-exhaust-fluid-def"/>
+    <title>10 Litre Jug of Diesel Exhaust Fluid (DEF)</title>
+    <s:type>Additive</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DEF_Fluid.jpg?v=1532337751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Additive<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>10 Litre Jug of Diesel Exhaust Fluid (DEF)</p>
+<ul>
+<li>ISO 22241 compliant</li>
+<li>Compliant with OEM warranties</li>
+<li>Dispensing nozzle included</li>
+</ul>
+Alternate part number: DEF946
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1454052966482</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>DPC-DEF946</s:sku>
+      <s:grams>10886</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485750927442</id>
+    <published>2014-08-11T15:56:00-06:00</published>
+    <updated>2014-08-11T15:56:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/mechanix-original-gloves"/>
+    <title>Mechanix Original Blue Gloves</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Mechanix_Gloves_Blue.jpg?v=1579514297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mechanix Original Blue Gloves</p>
+<p> Durable synthetic leather palm provides ultimate dexterity. Two-way stretch knit spandex back of the hand provides comfort and ventelation. TPR wrist closure for secure fit. Machine washable.</p>
+<p> </p>
+<p> </p>
+<p>Sizing Details:</p>
+<p>Medium/Size 9</p>
+<p>Large/Size 10</p>
+<p>Extra Large/Size 11</p>
+<p>Double Extra Large/Size 12</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>Performance</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485750927442</id>
+      <title>Medium Size 9</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>DPC-MG-03-009</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485750927442</id>
+      <title>Large Size 10</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>DPC-MG-03-010</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485750927442</id>
+      <title>Extra Large Size 11</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>DPC-MG-03-011</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485750927442</id>
+      <title>Double Extra Large Size 12</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>DPC-MG-03-012</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>

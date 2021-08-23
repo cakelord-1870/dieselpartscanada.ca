@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dieselpartscanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dieselpartscanada.ca/collections/6-6l.atom"/>
+  <title>Diesel Parts Canada</title>
+  <updated>2021-08-09T09:03:02-06:00</updated>
+  <author>
+    <name>Diesel Parts Canada</name>
+  </author>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6682318700626</id>
+    <published>2021-08-09T09:03:02-06:00</published>
+    <updated>2021-08-09T09:03:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/gm-duramax-2001-2004-6-6l-lb7-aftermarket-injector"/>
+    <title>GM Duramax 2001-2004 6.6L LB7 Aftermarket Pure Power Injector</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-0986435502-28-2_bbcd6d13-da10-42b9-8933-61b2d9e2a8b4.jpg?v=1628521224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GMC Duramax 2001-2004 LB7 6.6L Aftermarket Pure Power Injector</p>
+<p>Built to OE specifications by Pure Power<br></p>
+<p><span>Your injector can be identified by the 8th digit of your VIN.</span></p>
+<p><span>This injector is for vehicles with the 8th digit 1.</span></p>
+<p><span>Alternate part numbers: 0 445 120 008, 0 986 435 502, 97208074, 97720604, and 97720661</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>LB7</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6682318700626</id>
+      <title>Core Charge / 175</title>
+      <s:price currency="CAD">429.00</s:price>
+      <s:sku>DPC-7830-PP</s:sku>
+      <s:grams>662</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/284340421</id>
+    <published>2021-01-08T08:55:37-07:00</published>
+    <updated>2021-01-08T08:55:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/stanadyne-winter-1000-diesel-fuel-additive"/>
+    <title>Stanadyne Winter 1000 Diesel Fuel Additive</title>
+    <s:type>Additive</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/stanadyne-winter-1000.jpg?v=1527008757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Additive<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Economic cold weather protection</strong></p>
+<ul>
+<li>Fuel Gelling Protection - pour point reduced by as much as 40°F (22°C), depending on base fuel</li>
+<li>Reduces ice formation of water in fuel</li>
+<li>Contains no alcohol</li>
+<li>Specially formulated for ultra low sulfur diesel</li>
+<li>Can be used with bio diesel up to B20 (20% bio content)</li>
+</ul>
+<p> </p>
+<table class="gridtable">
+<tbody>
+<tr>
+<td class="header">Size</td>
+<td>16 oz Pint (470 ml)</td>
+<td>5 Gallons (19 L)</td>
+</tr>
+<tr>
+<td class="header">Package Quantity</td>
+<td>12</td>
+<td>1</td>
+</tr>
+<tr>
+<td class="header">Treatment (1:1000)</td>
+<td>125 gal (470 L)</td>
+<td>5,000 gal (19,200 L)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Additive</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/284340421</id>
+      <title>Case of 12 (16 oz) Bottles</title>
+      <s:price currency="CAD">84.00</s:price>
+      <s:sku>DPC-38574</s:sku>
+      <s:grams>12701</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888768020562</id>
+    <published>2020-11-25T10:24:11-07:00</published>
+    <updated>2020-11-25T10:24:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/gm-duramax-2006-6-6l-lbz-injector-complete-set"/>
+    <title>GM Duramax 2006 6.6L LBZ Injector (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-0986435504-8_dfe100b2-d737-4e98-8dc0-1ea5d22c852c.jpg?v=1606324992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            4880.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>(Complete Set)</strong></p>
+<p>GM Duramax 2006 LBZ 6.7L Injector </p>
+<p> <span>All Bosch rebuilt injectors have all new internal components with only the bodies being reused. Bosch injectors use only genuine parts and are built to current OE specifications.</span></p>
+<p><span>Your injector can be identified by the 8th digit of your VIN.</span></p>
+<p><span>This injector is for vehicles with the 8th digit D.</span></p>
+<p><span>Alternate part numbers: 0 445 120 042, 0 986 435 521, and 97361355</span></p>
+<p><span><strong>***Now covered under a 2 year manufacturer warranty.***</strong></span></p>
+<p><span style="font-size: xx-small;">Note:  This part may not be available for shipment in all regions.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888768020562</id>
+      <title>Core Charge / 800</title>
+      <s:price currency="CAD">4880.00</s:price>
+      <s:sku>DPC-0986435521-8</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888767135826</id>
+    <published>2020-11-25T10:22:42-07:00</published>
+    <updated>2020-11-25T10:22:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/gm-duramax-2004-5-2005-6-6l-lly-injector-complete-set"/>
+    <title>GM Duramax 2004.5-2005 6.6L LLY Injector (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-0986435504-12_be0c855e-caae-4c1c-bcaa-fe900ffa0767.jpg?v=1606324877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            4112.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>(Complete Set)</strong></p>
+<p>GM Duramax 2004.5-2006 LLY 6.6L Injector</p>
+<p> <span>All Bosch rebuilt injectors have all new internal components with only the bodies being reused. Bosch injectors use only genuine parts and are built to current OE specifications.</span></p>
+<p><span>Your injector can be identified by the 8th digit of your VIN.</span></p>
+<p><span>This injector is for vehicles with the 8th digit 2.</span></p>
+<p><span>Alternate part numbers: 97303657, 0 445 120 027, and 0 986 435 504</span></p>
+<p><span><strong>***Now covered under a 2 year manufacturer warranty.***</strong></span></p>
+<p><span style="font-size: xx-small;">Note:  This part may not be available for shipment in all regions.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888767135826</id>
+      <title>Core Charge / 880</title>
+      <s:price currency="CAD">4112.00</s:price>
+      <s:sku>DPC-0986435504-8</s:sku>
+      <s:grams>726</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888766316626</id>
+    <published>2020-11-25T10:20:27-07:00</published>
+    <updated>2020-11-25T10:20:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/gm-duramax-2001-2004-5-6-6l-lb7-high-performance-stage-1-injector-complete-set"/>
+    <title>GM Duramax 2001-2004.5 6.6L LB7 High Performance Stage 1 Injector (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/2S1-4_c9fcee7b-d962-42f0-9b4c-d1dda1d91654.jpg?v=1606324792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            6000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>(Complete Set)</strong></p>
+<p>GMC Duramax 2001-2004.5 LB7 6.6L High Performance Injector </p>
+<p><em>Where High Performance meets High Standards</em></p>
+<p>This injector can support up to 750 horsepower, and is a 25% horsepower gain at stock (in stage 1) or approximately a 60 horsepower increase! </p>
+<p>Note: High performance parts are meant for off-road use only.</p>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<ul>
+<li><span style="line-height: 1.4;">TDM tests and calibrates all injectors on OE test bench and tests through the full operating pressure range following the OEM fuel maps.</span></li>
+<li>
+<span style="line-height: 1.4;">They have developed a proprietary formulation or the internal adjustments and </span><span style="line-height: 1.4;">specifications that allows them to optimize </span><span style="line-height: 1.4;">performance not only at full load but throughout </span><span style="line-height: 1.4;">the fuel map. </span>
+</li>
+<li><span style="line-height: 1.4;">TDM operates the largest authorized OE clean room in North America where our OEM-trained techs build each injector by hand under the supervision of our in-house engineering team.</span></li>
+<li>
+<span style="line-height: 1.4;">Torque Diesel Motorsports (TDM) stands behind each of their injectors with the best warranty in the business </span><span style="line-height: 1.4;">providing coverage for 15 months/unlimited miles in conjunction with 90 days R&amp;R Labor.</span>
+</li>
+<li>
+<span style="line-height: 1.4;">Torque Diesel Motorsports combines our stringent standards, and exclusive use of new OE components </span><span style="line-height: 1.4;">to match ALL of their injectors to within 1.5% at full load delivery</span>
+</li>
+<li>
+<span style="line-height: 1.4;">Torque Diesel Motorsports has developed a superior performance injector based on the demands of today's Diesel performance customer.  Truly a blend of engineering and craftsmanship, TDM injectors provide the performance you want, </span><span style="line-height: 1.4;">the quality you expect, and the reliability you need.</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<p> </p>
+<p><strong>About Torque Diesel Motorsports</strong></p>
+<meta charset="utf-8">
+<section class="column column-1 grid-left-0 grid-width-17">
+<div id="block-b03568a24fb5afff" class="block block-type-content block-fluid-height" data-alias="Single: Content">
+<div class="block-content">
+<div class="loop">
+<article id="post-51" class="post-51 page type-page status-publish hentry author-torquediesel" itemscope="" itemtype="http://schema.org/CreativeWork">
+<div class="entry-content" itemprop="text">
+<p>Torque Diesel Motorsports goes through incredible lengths to produce the best performance injectors available in the market today. At Torque Diesel Motorsports our team of highly trained technicians has produced in excess of 50,000 injectors and builds each performance injector by hand. We start by completely disassembling each injector, the injector body then goes through a multi-stage ultrasonic cleaning process and all internal wear parts are discarded. Next, each body undergoes a strict internal inspection before being marked with a laser annealed serial and part number.</p>
+<p>Torque Diesel Motorsports currently operates the largest OE authorized clean room in North America where all of our injectors are built under the supervision of our in house engineering team. We have developed a proprietary formulation for the internal adjustments and specifications that allows us to optimize performance not only at full load but throughout the fuel map. Using strict guidelines set forth by the OE manufacturer, we replace every solenoid, valve set, spring, O-ring, control ball, ball sleeve, thrust piece, and shims with new genuine Bosch parts. In order to ensure long lasting quality and reliability, Torque Diesel Motorsports exclusively uses 100% new OE nozzles featuring the latest DGV (double guided valve) design.</p>
+<p>Torque Diesel Motorsports tests and calibrates all of our injectors exclusively on a OE – EPS 815 Common Rail test stand. Each injector is tested through the full operating pressure range following the fuel maps provided by the original equipment manufacturer to ensure reliable performance. Our testing also includes the proprietary shot to shot measurement at a minimum of five different test points. Shot to shot testing measures the output of each injection event during the testing sequence to ensure superior performance and repeatability. the OE team annually re-calibrates and re-certifies each of our three common rail test stands to ensure both the accuracy and consistency of our results. It is our combination of internal adjustments, exclusive use of new original equipment parts, and advanced manufacturing processes that allows us to provide an unmatched level of quality and performance.</p>
+<p><strong></strong>﻿</p>
+<div class="page" title="Page 2">
+<div class="layoutArea">
+<div class="column">
+<p> </p>
+</div>
+</div>
+</div>
+<p><strong>Warranty</strong></p>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p><span>LIMITED WARRANTY,WARRANTY DISCLAIMER,WAIVER OF IMPLIED WARRANTIES, LIMITATION OF LIABILITY, INDEMNITY, AND COMPLETE RELEASE AGREEMENT </span></p>
+<p><span>NOTICE: THIS IS A HIGH-PERFORMANCE INJECTOR PRODUCT; USE THIS PRODUCT AT YOUR OWN RISK. DO NOT USE THIS PRODUCT UNTIL YOU HAVE CAREFULLY READ THE FOLLOWING AGREEMENT. </span></p>
+<p><span>1. Limited Warranty. </span></p>
+<p><span>(a) Torque Diesel Motorsports injectors provide limited warranty as to description, quality,and performance of the Product from the manufacturer limited to a period of 15 months from the date of purchase to the original purchaser (the"Customer") of the Product, which warranty does not include Product damage caused by outside influences, including but not limited to: improper installation, foreign object damage, contamination, or misuse. </span></p>
+<p><span>(b) The Seller assumes no liability regarding the improper misapplication of the Product and Services. Customer and any installer assume responsibility for proper installation. </span></p>
+<p><span>2. Disclaimer of Warranties. Except for the Limited Warranty set forth in Section 1(a) Seller disclaims all warranties, express and implied, with respect to fitness for a particular purpose or merchantability, and further disclaims any liability for personal injury or damages. </span></p>
+<p><span>3. Customer Covenants. </span></p>
+<p><span>(a) Customer acknowledges and agrees that(1) performance injector products are designed for off-road and competition use only; (2)use on a federal or state highway is a violation of the Federal Clean Air Act, (3) Customer has not relied upon the skill or judgment of Manufacturer or its dealers, agents, or suppliers to select the Product,or to determine if the Product is suitable for the Customer's particular purpose. </span></p>
+<p><span>(b) Customer acknowledges and agrees that the disclaimer of warranties isa material term of this Agreement. </span></p>
+<p><span>(c) Customer acknowledges and agrees to the limited warranty, the lack of reliance on Seller, the disclaimer of warranties, the assumption of liability by Customer, the agreement of indemnity, that the use of the Product may void the vehicle manufacturer's warranty and use on any state or federal highway could result in a fine or other penalty, and agrees to a complete release of Manufacturer and Seller. </span></p>
+<p><span>CUSTOMER ACKNOWLEDGES THAT HE OR SHE OR IT HAS BEEN INFORMED OF THE RISKS AND THE POTENTIAL RISKS OF USE AND OPERATING THIS PRODUCT, AND BY THIS AGREEMENT WAIVES ANY RIGHT TO ASSERT ANY CLAIM AGAINST MANUFACTURER OR SELLER, WHETHER FOR BREACH OF CONTRACT, TORT, NEGLIGENCE, OR OTHERWISE,EXCEPT AS PRESCRIBED IN THIS AGREEMENT,AND IN THE EVENT OF RESALE OF OR TRANSFER BY THE CUSTOMER OF SUCH PERFORMANCE INJECTORS, MANUFACTURER OFFERS NO WARRANTIES, EXPRESS OR IMPLIED.</span></p>
+<p> Replaces stock injector part numbers: 0 986 435 502, 0 445 120 008, 97208074, and 12620535</p>
+<p> </p>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>LB7</s:tag>
+    <s:tag>Performance</s:tag>
+    <s:tag>Torque Diesel Motorsports</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888766316626</id>
+      <title>Core Charge / 1600</title>
+      <s:price currency="CAD">6000.00</s:price>
+      <s:sku>DPC-TDM02S1-8</s:sku>
+      <s:grams>662</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888765694034</id>
+    <published>2020-11-25T10:19:16-07:00</published>
+    <updated>2020-11-25T10:19:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/gm-duramax-2001-2004-6-6l-lb7-injector-complete-set"/>
+    <title>GM Duramax 2001-2004 6.6L LB7 Injector (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-0986435502-28-2_12a55688-28c8-475a-9d95-56b5bf1276b5.jpg?v=1606324708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            3592.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>(Complete Set)</strong></p>
+<p>GMC Duramax 2001-2004 LB7 6.6L Injector</p>
+<p> <span>All Bosch rebuilt injectors have all new internal components with only the bodies being reused. Bosch injectors use only genuine parts and are built to current OE specifications.</span></p>
+<p><span>Your injector can be identified by the 8th digit of your VIN.</span></p>
+<p><span>This injector is for vehicles with the 8th digit 1.</span></p>
+<p><span>Alternate part numbers: 0 445 120 008, 0 986 435 502, 97208074, 97720604, and 97720661</span></p>
+<p><strong>***Now covered under a 2 year manufacturer warranty.***</strong></p>
+<p><span style="font-size: xx-small;">Note: This part may not be available for shipment in all regions.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>LB7</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888765694034</id>
+      <title>Core Charge / 880</title>
+      <s:price currency="CAD">3592.00</s:price>
+      <s:sku>DPC-0986435502-8</s:sku>
+      <s:grams>662</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888481235026</id>
+    <published>2020-11-25T08:08:03-07:00</published>
+    <updated>2020-11-25T08:08:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2011-2014-6-6l-cab-chassis-gm-duramax-lgh-injector-complete-set"/>
+    <title>2011-2014 6.6L Cab &amp; Chassis GM Duramax LGH Injector (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-0986435410-10_99ece19f-cb25-428c-bfdb-c9441ef36448.jpg?v=1606316840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            5232.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>(Complete Set)</b></p>
+<p>2011-2014 6.6L Cab &amp; Chassis GM Duramax LGH Injector</p>
+<p>Genuine Bosch OE remanufactured injector.</p>
+<p> <span>All Bosch rebuilt injectors have all new internal components with only the bodies being reused. Bosch injectors use only genuine parts and are built to current OE specifications.</span></p>
+<p><span>Your injector can be identified by the 8th digit of your VIN.</span></p>
+<p><span>This injector is for vehicles with the 8th digit L.</span></p>
+<p>Alternate part numbers: 0 447 117 008, 0 986 435 409, 12620535, and 19210900</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888481235026</id>
+      <title>Core Charge / 880</title>
+      <s:price currency="CAD">5232.00</s:price>
+      <s:sku>DPC-0986435409-8</s:sku>
+      <s:grams>658</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888476778578</id>
+    <published>2020-11-25T08:06:23-07:00</published>
+    <updated>2020-11-25T08:06:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2011-2014-6-6l-2500-3500-pick-up-gm-duramax-lml-injector-complete-set"/>
+    <title>2011-2014 6.6L 2500/3500 Pick-up GM Duramax LML Injector (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-0986435410-10_04eeb2e0-f104-4580-be64-643ca081f27d.jpg?v=1606316744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            4312.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>(Complete Set)</b></p>
+<p>2011-2014 6.6L 2500/3500 Pick-up GM Duramax LML Injector</p>
+<p>Genuine Bosch OE remanufactured injector.</p>
+<p> <span>All Bosch rebuilt injectors have all new internal components with only the bodies being reused. Bosch injectors use only genuine parts and are built to current OE specifications.</span></p>
+<p><span>Your injector can be identified by the 8th digit of your VIN.</span></p>
+<p><span>This injector is for vehicles with the 8th digit 8.</span></p>
+<p>Alternate part numbers: 0 445 117 010, 0 986 435 410, 19256590,  and 12620534</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888476778578</id>
+      <title>Core Charge / 880</title>
+      <s:price currency="CAD">4312.00</s:price>
+      <s:sku>DPC-0986435410-8</s:sku>
+      <s:grams>658</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4698145652818</id>
+    <published>2020-07-03T11:21:34-06:00</published>
+    <updated>2020-07-03T11:21:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/injector-test-kit-o-ring-for-duramax-66-lb7"/>
+    <title>Injector O–ring Kit for Duramax 6.6L LB7</title>
+    <s:type>Seal and Gasket Kits</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-Image-Not-Available_grande_30dd4903-53fa-43bd-af45-7ffc24c25748.png?v=1593796977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Seal and Gasket Kits<br>
+        <strong>Price: </strong>
+            26.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 148">
+<div class="section">
+<div class="layoutArea">
+<div class="column"></div>
+<div class="column">Replacement Injector O-Ring Kit for LB7</div>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>LB7</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4698145652818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.18</s:price>
+      <s:sku>DPC-F00E200098</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4292859330642</id>
+    <published>2019-10-18T15:35:59-06:00</published>
+    <updated>2019-10-18T15:35:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2011-2016-gmc-duramax-6-6-lml-contamination-kit"/>
+    <title>2011-2016  GMC  Duramax 6.6 LML Contamination Kit</title>
+    <s:type>Fuel System Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/2015-2016.jpg?v=1579512664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Fuel System Components<br>
+        <strong>Price: </strong>
+            5450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2011-2016  GMC  Duramax 6.6 LML Contamination Kit</p>
+<p>Water and solid debris are the two main causes of contamination in the diesel fuel system. Once contaminates are introduced into the fuel they become trapped in the system causing damage as they circulate through. </p>
+<p>The best way to ensure that the contaminates are removed from the fuel system is by replacing the main fuel system components where the debris has become trapped.</p>
+<p>With this in mind we are pleased to offer a contamination kit which contains:</p>
+<ul>
+<li>Fuel injectors </li>
+<li>High pressure pump</li>
+<li>Injection lines</li>
+<li>Fuel pump install kit</li>
+<li>Fuel rails</li>
+<li>Injector return line</li>
+</ul>
+<p> Includes standard 2 year warranty on pump and injectors.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4292859330642</id>
+      <title>Core Charge / 1250</title>
+      <s:price currency="CAD">5450.00</s:price>
+      <s:sku>DPC-LML-CONKIT</s:sku>
+      <s:grams>15876</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4026403029074</id>
+    <published>2019-08-19T10:22:24-06:00</published>
+    <updated>2019-08-19T10:22:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2001-2004-gm-duramax-6-6l-full-fuel-filter-assembly"/>
+    <title>2001-2004 GM Duramax 6.6L Full Fuel Filter Assembly</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/PFF4245R2-04.jpg?v=1566811292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2001-2004 GM Duramax 6.6 Full Fuel Filter Assembly LB7</p>
+<p>Alternate numbers: 97780061 &amp; PFF4245R2-04</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4026403029074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">239.00</s:price>
+      <s:sku>PFF4245R2-04</s:sku>
+      <s:grams>1089</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2512420307026</id>
+    <published>2019-06-26T12:39:08-06:00</published>
+    <updated>2019-06-26T12:39:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/gm-duramax-2004-2012-6-6l-replacement-plastic-bowl-with-drain-and-wif-sensor"/>
+    <title>GM Duramax 2004-2012 6.6L Replacement Plastic Bowl with Drain and WIF Sensor</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GM Duramax 2004-2012 6.6L Replacement Plastic Bowl with Drain and WIF Sensor</p>
+<div class="page" title="Page 115">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>OEM Part Number: </span><span>19257915<br> </span><span>Notes: </span><span>Use with PFF58567 Fuel Filter Service Kit. Van applications only. </span></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2512420307026</id>
+      <title>1+</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>DPC-RK 58010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2512428925010</id>
+    <published>2019-06-26T12:37:47-06:00</published>
+    <updated>2019-06-26T12:37:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/gm-duramax-2012-and-later-6-6l-water-repelling-prescreen-filter"/>
+    <title>GM Duramax 2012 and Later 6.6L Water Repelling Prescreen Filter</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PFFRK51216-3.jpg?v=1579514258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GM Duramax 2012 and Later 6.6L Water Repelling Prescreen Filter</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2512428925010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku>DPC-PFFRK51216</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2512426958930</id>
+    <published>2019-06-26T12:37:26-06:00</published>
+    <updated>2019-06-26T12:37:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/gm-duramax-2012-2018-6-6l-drain-valve-water-sensor-kit"/>
+    <title>GM Duramax 2012 and Later 6.6L Drain Valve / Water Sensor Kit</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GM 2012 and Later 6.6L <span style="font-size: 14px;">Drain Valve / Water Sensor Kit</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2512426958930</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>DPC-PFRK50375</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2512412966994</id>
+    <published>2019-06-26T12:36:35-06:00</published>
+    <updated>2019-06-26T12:36:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2007-2010-6-6l-lmm-duramax-high-pressure-fuel-pump-exhaust-gas-recirculation-egr-valve-installation-kit"/>
+    <title>2007 – 2010 6.6L LMM Duramax High–Pressure Fuel Pump/Exhaust Gas Recirculation (EGR) Valve Installation Kit</title>
+    <s:type>Seal and Gasket Kits</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP0129-2_4b9fa639-0ac9-42ed-b81b-2fa9cbbfc25d.jpg?v=1557739316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Seal and Gasket Kits<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2007 – 2010 6.6L LMM Duramax High–Pressure Fuel Pump/Exhaust Gas Recirculation (EGR) Valve Installation Kit</p>
+<div class="page" title="Page 113">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Engine:</span><span>6.6L LMM Duramax</span></p>
+<p>Application:  Silverado and Sierra Vehicles</p>
+</div>
+</div>
+</div>
+</div>
+<div class="page" title="Page 112">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 112">
+<div class="section">
+<div class="layoutArea">
+<div class="column"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2512412966994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku>DPC-AP0130</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2512411492434</id>
+    <published>2019-06-26T12:36:15-06:00</published>
+    <updated>2019-06-26T12:36:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2006-2007-6-6l-lbz-duramax-high-pressure-fuel-pump-exhaust-gas-recirculation-egr-valve-installation-kit"/>
+    <title>2006 – 2007 6.6L LBZ Duramax High–Pressure Fuel Pump/Exhaust Gas Recirculation (EGR) Valve Installation Kit</title>
+    <s:type>Seal and Gasket Kits</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP0129-2.jpg?v=1557739315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Seal and Gasket Kits<br>
+        <strong>Price: </strong>
+            73.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2006 – 2007 6.6L LBZ Duramax High–Pressure Fuel Pump/Exhaust Gas Recirculation (EGR) Valve Installation Kit</p>
+<div class="page" title="Page 113">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Engine:</span><span>6.6L LBZ Duramax</span></p>
+<p>Application:  Silverado and Sierra Vehicles</p>
+</div>
+</div>
+</div>
+</div>
+<div class="page" title="Page 112">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 112">
+<div class="section">
+<div class="layoutArea">
+<div class="column"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2512411492434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">73.00</s:price>
+      <s:sku>DPC-AP0129</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2512402907218</id>
+    <published>2019-06-26T12:35:42-06:00</published>
+    <updated>2019-06-26T12:35:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2004-1-2-2005-6-6l-lly-duramax-high-pressure-fuel-pump-exhaust-gas-recirculation-egr-valve-installation-kit"/>
+    <title>2004 1⁄2 – 2005 6.6L LLY Duramax High–Pressure Fuel Pump/Exhaust Gas Recirculation (EGR) Valve Installation Kit</title>
+    <s:type>Seal and Gasket Kits</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP0128-2.jpg?v=1558948905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Seal and Gasket Kits<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2004 1⁄2 – 2005 6.6L LLY Duramax High–Pressure Fuel Pump/Exhaust Gas Recirculation (EGR) Valve Installation Kit</p>
+<div class="page" title="Page 113">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Engine:</span><span>6.6L LLY Duramax</span></p>
+<p>Application:  Silverado and Sierra Vehicles</p>
+</div>
+</div>
+</div>
+</div>
+<div class="page" title="Page 112">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 112">
+<div class="section">
+<div class="layoutArea">
+<div class="column"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2512402907218</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>DPC-AP0128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2512398876754</id>
+    <published>2019-06-26T12:35:23-06:00</published>
+    <updated>2019-06-26T12:35:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2001-2004-gm-6-6l-lb7-duramax-high-pressure-fuel-pump-installation-kit"/>
+    <title>2001-2004 GM 6.6L LB7 Duramax High–Pressure Fuel Pump Installation Kit</title>
+    <s:type>Seal and Gasket Kits</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP0127-3.jpg?v=1557739307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Seal and Gasket Kits<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2001-2004 GM 6.6L LB7 Duramax High–Pressure Fuel Pump Installation Kit</p>
+<div class="page" title="Page 113">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Engine:</span><span>6.6L LB7 Duramax</span></p>
+<p>Application:  Silverado and Sierra Vehicles</p>
+</div>
+</div>
+</div>
+</div>
+<div class="page" title="Page 112">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 112">
+<div class="section">
+<div class="layoutArea">
+<div class="column"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2512398876754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>DPC-AP0127</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2512395927634</id>
+    <published>2019-06-26T12:35:01-06:00</published>
+    <updated>2019-06-26T12:35:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2011-2016-gm-6-6l-lml-duramax-head-gasket-kit-without-studs"/>
+    <title>2011-2016 GM 6.6L LML Duramax Head Gasket Kit Without studs</title>
+    <s:type>Seal and Gasket Kits</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP0155.jpg?v=1557741491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Seal and Gasket Kits<br>
+        <strong>Price: </strong>
+            439.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>2011-2016 GM 6.6L LML Duramax Head Gasket Kit Without studs</strong></p>
+<div class="page" title="Page 112">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Kit Contents: </span></p>
+<p><span>■ </span><span>2 Upper Valve Cover Gaskets<br> </span><span>■ </span><span>2 Lower Valve Cover Gaskets<br> </span><span>■ </span><span>2 Exhaust Manifold Gasket Kits<br> </span><span>■ </span><span>2 Intake Manifold Gasket Kits<br> </span><span>■ </span><span>1 Coolant Outlet Gasket<br> </span><span>■ </span><span>1 Coolant Thermostat Housing Gasket<br> </span><span>■ </span><span>1 Fuel Injection Throttle Body Gasket Kit </span></p>
+<p><span> </span></p>
+<p> </p>
+<div class="page" title="Page 112">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><em>Application: Silverado and Sierra Vehicles </em></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2512395927634</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">439.00</s:price>
+      <s:sku>DPC-AP0155</s:sku>
+      <s:grams>1882</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2512392847442</id>
+    <published>2019-06-26T12:34:17-06:00</published>
+    <updated>2019-06-26T12:34:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2011-2016-gm-6-6l-lml-duramax-head-gasket-kit-with-studs"/>
+    <title>2011-2016 GM 6.6L LML Duramax Head Gasket Kit With studs</title>
+    <s:type>Seal and Gasket Kits</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPCAP0154.jpg?v=1557741490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Seal and Gasket Kits<br>
+        <strong>Price: </strong>
+            1697.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>2011-2016 GM 6.6L LML Duramax Head Gasket Kit With studs</strong></p>
+<div class="page" title="Page 112">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Kit Contents: </span></p>
+<p><span>■ </span><span>2 Upper Valve Cover Gaskets<br> </span><span>■ </span><span>2 Lower Valve Cover Gaskets<br> </span><span>■ </span><span>2 Exhaust Manifold Gasket Kits<br> </span><span>■ </span><span>2 Intake Manifold Gasket Kits<br> </span><span>■ </span><span>1 Coolant Outlet Gasket<br> </span><span>■ </span><span>1 Coolant Thermostat Housing Gasket<br> </span><span>■ </span><span>1 Fuel Injection Throttle Body Gasket Kit </span></p>
+<p><span>■ </span><span>**Includes Head Stud Kit</span></p>
+<p> </p>
+<div class="page" title="Page 112">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><em>Application: Silverado and Sierra Vehicles </em></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2512392847442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1697.00</s:price>
+      <s:sku>DPC-AP0154</s:sku>
+      <s:grams>7462</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2512387211346</id>
+    <published>2019-06-26T12:22:41-06:00</published>
+    <updated>2019-06-26T12:22:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2004-2010-gm-6-6l-duramax-lly-lbz-lmm-duramax-head-installation-kit"/>
+    <title>2004-2010 GM 6.6L Duramax LLY, LBZ, LMM Duramax Head Installation Kit Without studs</title>
+    <s:type>Seal and Gasket Kits</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Screen_Shot_2019-05-10_at_8.40.47_AM_copy.jpg?v=1557739315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Seal and Gasket Kits<br>
+        <strong>Price: </strong>
+            763.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>2004-2010 GM 6.6L Duramax LLY, LBZ, LMM Duramax Head Installation Kit without studs</strong></p>
+<div class="page" title="Page 111">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>■ </span><span>2 Upper Valve Cover Gaskets<br> </span><span>■ </span><span>2 Lower Valve Cover Gaskets<br> </span><span>■ </span><span>1 Exhaust Manifold Gasket Kit<br> </span><span>■ </span><span>1 Intake Manifold Gasket Kit<br> </span><span>■ </span><span>2 Thermostat Housing to Head Gaskets<br> </span><span>■ </span><span>1 Exhaust Gas Recirculation (EGR) System Gasket Kit</span></p>
+<p><span> </span><span>■ </span><span>1 Water Pump to Outlet Pipe Gasket </span></p>
+</div>
+</div>
+<div class="layoutArea">
+<div class="column">
+<p><span>■ </span><span>1 Coolant Bypass Pipe Seal Kit<br> </span><span>■ </span><span>1 Thermostat Housing to Coolant Outlet Pipe Seal<br> </span><span>■ </span><span>1 Thermostat Housing to Exhaust Gas Recirculation (EGR) Cooler Pipe Seal </span></p>
+<p><span>■ </span><span>2 Fuel Injection Control Module (FICM) Banjo Sea<br> </span></p>
+</div>
+</div>
+</div>
+</div>
+<hr>
+<p>Alliant Power Part Number: AP0063</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2512387211346</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">763.00</s:price>
+      <s:sku>DPC-AP0063</s:sku>
+      <s:grams>8600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2512347136082</id>
+    <published>2019-06-26T12:22:15-06:00</published>
+    <updated>2019-06-26T12:22:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2001-2005-gm-6-6l-duramax-6-6l-lb7-lly-duramax"/>
+    <title>2001-2005 GM 6.6L Duramax 6.6L LB7, LLY Duramax  Water Pump Housing</title>
+    <s:type>Engine Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP63566-12.jpg?v=1557739309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Engine Components<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>2001-2005 GM 6.6L Duramax 6.6L LB7, LLY Duramax Water Pump Housing</strong></p>
+<div class="page" title="Page 101">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span><strong>OEM Part Number</strong>: </span>97228188</p>
+<div class="page" title="Page 109">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Engine: </span><span>6.6L LB7, LLY Duramax</span></p>
+<p> </p>
+<div class="page" title="Page 109">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>Notes: </span><span>Fits AP63562 Water Pump. </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2512347136082</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku>DPC-AP63566</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2516332183634</id>
+    <published>2019-05-10T08:58:21-06:00</published>
+    <updated>2019-05-10T08:58:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2001-2004-gm-lb7-duramax-head-installation-kit-with-studs"/>
+    <title>2001-2004 GM LB7 Duramax Head Installation Kit with studs</title>
+    <s:type>Seal and Gasket Kits</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP0045.png?v=1557739308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Seal and Gasket Kits<br>
+        <strong>Price: </strong>
+            1895.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>2001-2004 GM LB7 Duramax Head Installation Kit with studs</b></p>
+<p>ARP studs included with this kit.</p>
+<p>Complete kit contents:</p>
+<ul>
+<li>2 Lower valve cover gaskets</li>
+<li>1 Exhaust manifold gasket kit</li>
+<li>1 Intake manifold gasket kit</li>
+<li>2 Thermostat housing to head gaskets</li>
+<li>1 EGR system gasket kit</li>
+<li>1 Water pump to outlet pipe gasket</li>
+<li>1 Fuel return line kit</li>
+<li>16 Injector cup seals</li>
+<li>1 Turbo inlet gasket</li>
+<li>1 Coolant bypass pipe seal kit</li>
+<li>1 Thermostat housing to coolant outlet pipe seal</li>
+<li>1 Thermostat housing to heater pipe seal</li>
+<li>2 Fuel injection control module (FICM) banjo seals</li>
+<li>
+<div class="page" title="Page 111">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>**Includes Head Stud Kit </span></p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<hr>
+<p>Alliant Power Part Number: AP0045</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2516332183634</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1895.00</s:price>
+      <s:sku>DPC-AP0045</s:sku>
+      <s:grams>8600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/418415048</id>
+    <published>2019-05-08T15:37:40-06:00</published>
+    <updated>2019-05-08T15:37:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2001-2004-isuzu-lb7-duramax-head-installation-kit"/>
+    <title>2001-2004 GM LB7 Duramax Head Installation Kit without studs</title>
+    <s:type>Seal and Gasket Kits</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP0062.jpg?v=1557739309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Seal and Gasket Kits<br>
+        <strong>Price: </strong>
+            555.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>2001-2004 GM LB7 Duramax Head Installation Kit without studs</b></p>
+<p>ARP studs included with this kit.</p>
+<p>Complete kit contents:</p>
+<ul>
+<li>2 Lower valve cover gaskets</li>
+<li>1 Exhaust manifold gasket kit</li>
+<li>1 Intake manifold gasket kit</li>
+<li>2 Thermostat housing to head gaskets</li>
+<li>1 EGR system gasket kit</li>
+<li>1 Water pump to outlet pipe gasket</li>
+<li>1 Fuel return line kit</li>
+<li>16 Injector cup seals</li>
+<li>1 Turbo inlet gasket</li>
+<li>1 Coolant bypass pipe seal kit</li>
+<li>1 Thermostat housing to coolant outlet pipe seal</li>
+<li>1 Thermostat housing to heater pipe seal</li>
+<li>2 Fuel injection control module (FICM) banjo seals</li>
+</ul>
+<hr>
+<p>Alliant Power Part Number: AP0062</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/418415048</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">555.00</s:price>
+      <s:sku>DPC-AP0062</s:sku>
+      <s:grams>8600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2494809440338</id>
+    <published>2019-04-24T09:34:05-06:00</published>
+    <updated>2019-04-24T09:34:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/ford-navistar-gm-john-deere-izuzu-injector-brush-kit"/>
+    <title>Ford Navistar GM John Deere Izuzu Injector Brush Kit</title>
+    <s:type>Tools</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/AP0085.JPG?v=1556531464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Tools<br>
+        <strong>Price: </strong>
+            81.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ford Navistar GM John Deere Izuzu Injector Brush Kit </p>
+<p>Alternate part number- AP0085</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>LB7</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2494809440338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>DPC-AP0085</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

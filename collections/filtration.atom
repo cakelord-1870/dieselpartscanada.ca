@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dieselpartscanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dieselpartscanada.ca/collections/filtration.atom"/>
+  <title>Diesel Parts Canada</title>
+  <updated>2021-01-26T07:59:35-07:00</updated>
+  <author>
+    <name>Diesel Parts Canada</name>
+  </author>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4941081804882</id>
+    <published>2021-01-26T07:59:35-07:00</published>
+    <updated>2021-01-26T07:59:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/urea-filter-2-2-denoxtronic"/>
+    <title>Bosch Urea Filter  2.2 Denoxtronic</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Bosch-Urea-Diesel-Filter-1.png?v=1611606700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bosch Urea Filter  2.2 Denoxtronic</p>
+<p>Alternate part numbers: <span data-mce-fragment="1">02934690, 04601354, 04602317, 1457436033, 1457436088, 1847823, 1927474, 2014774, 21496419, 21496421, 21516229, 21516231, 21516516, 21673812, 2511460C1, 2880298, 2888182, 2934690, 3783187, 4601354, 4602317, 47364243, 5221516516, 5303604, 5801667204, 6392223, 6540-71-2320, 68087337AA, 68087337AB, 7421574991, 7485138439, 837079423, 847823PE, 8981694030, 98169403, A042T663, DZ114640, E103UD295, F00BH40301, F00BH40343, F835201110090, FH00BH40428877, K68087337AA, RE554498, SK17K0-E0011, U5001KIT, UF101, V837079423, and W74B191</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Filter</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4941081804882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>DPC-1457436033</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4589383483474</id>
+    <published>2020-04-27T09:28:56-06:00</published>
+    <updated>2020-04-27T09:28:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/diesel-fuel-water-filter-kit-oe-2017-2019-ford-f250-f350-superduty-6-7l-ford-powerstroke"/>
+    <title>OE Diesel Fuel Water Filter Kit  2017-2019 Ford F250 F350 Superduty 6.7L Ford Powerstroke</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/fd4625.jpg?v=1588584599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>OE Diesel Fuel Water Filter Kit OE 2017-2019 Ford F250 F350 Superduty 6.7L Ford Powerstroke</p>
+<p>Alternate numbers: <span id="productTitle" class="a-size-large">FD4624, FD4625, HC3Z-9N184-B, and HC3Z-9N184-C</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4589383483474</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">155.00</s:price>
+      <s:sku>DPC-FD155</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2512556261458</id>
+    <published>2019-10-09T10:25:00-06:00</published>
+    <updated>2019-10-09T10:25:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/john-deere-4-5l-6-8l-primary-secondary-fuel-kit-2"/>
+    <title>John Deere 4.5L &amp; 6.8L Primary &amp; Secondary Fuel Filter/Water Separator Kit</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            124.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 133">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 137">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><strong>John Deere 4.5L &amp; 6.8L Primary &amp; Secondary Fuel Filter/Water Separator Kit</strong></p>
+<div class="page" title="Page 138">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 138">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 138">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>OEM Part Number: </span><span>RE541746<br> </span><span>Notes: </span><span>Interim Tier 4 Engines. </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page" title="Page 137">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 137">
+<div class="section">
+<div class="layoutArea">
+<div class="column"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4.5L</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2512556261458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">124.00</s:price>
+      <s:sku>DPC-PFF5614</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2512552493138</id>
+    <published>2019-10-09T10:24:42-06:00</published>
+    <updated>2019-10-09T10:24:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/john-deere-4-5l-6-8l-primary-secondary-fuel-kit-1"/>
+    <title>John Deere 4.5L &amp; 6.8L Primary &amp; Secondary Fuel Kit</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            124.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 133">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 137">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><strong>John Deere 4.5L &amp; 6.8L Primary &amp; Secondary Fuel Kit</strong></p>
+<div class="page" title="Page 138">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 138">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>OEM Part Numbers: </span><span>RE525523, RE527961<br> </span><span>Notes: </span><span>Tier 3 Engines (6068SFM75, 6090AFM85, 6090SFM85). </span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="page" title="Page 137">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 137">
+<div class="section">
+<div class="layoutArea">
+<div class="column"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4.5L</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2512552493138</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">124.00</s:price>
+      <s:sku>DPC-PFF5551</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2512549675090</id>
+    <published>2019-10-09T10:24:28-06:00</published>
+    <updated>2019-10-09T10:24:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/john-deere-4-5l-6-8l-primary-secondary-fuel-kit"/>
+    <title>John Deere 4.5L &amp; 6.8L Primary &amp; Secondary Fuel Kit</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PFF56221-2.jpg?v=1579514284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            124.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 133">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 137">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><strong>John Deere 4.5L &amp; 6.8L Primary &amp; Secondary Fuel Kit</strong></p>
+<div class="page" title="Page 138">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>OEM Part Number: </span><span>RE556406<br> </span><span>Notes: </span><span>Final Tier 4 Engines. </span></p>
+</div>
+</div>
+</div>
+</div>
+<div class="page" title="Page 137">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 137">
+<div class="section">
+<div class="layoutArea">
+<div class="column"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4.5L</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2512549675090</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">124.00</s:price>
+      <s:sku>DPC-PFF51572</s:sku>
+      <s:grams>1293</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2519814406226</id>
+    <published>2019-10-09T09:58:56-06:00</published>
+    <updated>2019-10-09T09:58:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/john-deere-12-5l-6125-6125h-10-5l-6105-injectors"/>
+    <title>John Deere 12.5L 6125/6125H, 10.5L 6105 Injectors</title>
+    <s:type>Seal and Gasket Kits</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/IMGL2217.jpg?v=1579514277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Seal and Gasket Kits<br>
+        <strong>Price: </strong>
+            960.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page" title="Page 133">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 137">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><strong>John Deere 12.5L 6125/6125H, 10.5L 6105 Injectors</strong></p>
+<p><span mce-data-marked="1">OE/Reman part No - RE64866, RE68806, RG27869, SE501952</span></p>
+<p> </p>
+<p><span mce-data-marked="1">Features/Benefits</span></p>
+<ul>
+<li><span mce-data-marked="1">Surface lapping of each critical component</span></li>
+<li><span mce-data-marked="1">new nozzle, actuator valve, spill valve, NOP spring, washer, shim &amp; stop in each injector.</span></li>
+<li>100% O-ring replacement.</li>
+<li>12 month, unlimited mileage</li>
+<li>90 Day, No-hassle warranty</li>
+</ul>
+<p><strong> </strong></p>
+<p> </p>
+<div class="page" title="Page 139">
+<div class="section">
+<div class="layoutArea">
+<div class="column"></div>
+</div>
+</div>
+</div>
+<div class="page" title="Page 137">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 137">
+<div class="section">
+<div class="layoutArea"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10.5L</s:tag>
+    <s:tag>12.5L</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2519814406226</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">960.00</s:price>
+      <s:sku>DPC-EX631000</s:sku>
+      <s:grams>2404</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4026403029074</id>
+    <published>2019-08-19T10:22:24-06:00</published>
+    <updated>2019-08-19T10:22:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2001-2004-gm-duramax-6-6l-full-fuel-filter-assembly"/>
+    <title>2001-2004 GM Duramax 6.6L Full Fuel Filter Assembly</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/PFF4245R2-04.jpg?v=1566811292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            239.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2001-2004 GM Duramax 6.6 Full Fuel Filter Assembly LB7</p>
+<p>Alternate numbers: 97780061 &amp; PFF4245R2-04</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4026403029074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">239.00</s:price>
+      <s:sku>PFF4245R2-04</s:sku>
+      <s:grams>1089</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2512420307026</id>
+    <published>2019-06-26T12:39:08-06:00</published>
+    <updated>2019-06-26T12:39:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/gm-duramax-2004-2012-6-6l-replacement-plastic-bowl-with-drain-and-wif-sensor"/>
+    <title>GM Duramax 2004-2012 6.6L Replacement Plastic Bowl with Drain and WIF Sensor</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GM Duramax 2004-2012 6.6L Replacement Plastic Bowl with Drain and WIF Sensor</p>
+<div class="page" title="Page 115">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>OEM Part Number: </span><span>19257915<br> </span><span>Notes: </span><span>Use with PFF58567 Fuel Filter Service Kit. Van applications only. </span></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2512420307026</id>
+      <title>1+</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>DPC-RK 58010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1514104848466</id>
+    <published>2019-06-26T12:31:32-06:00</published>
+    <updated>2019-06-26T12:31:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2008-2010-ford-f-series-6-4l-diesel-particulate-filter-dpf-and-diesel-oxidation-catalust-doc-installation-kit"/>
+    <title>2008-2010 Ford F-Series 6.4L Diesel Particulate Filter (DPF) and Diesel Oxidation Catalust (DOC) Installation Kit</title>
+    <s:type>Engine Accessories</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-Image-Not-Available_ac2cd7d8-3730-4ebf-9d9b-999f0d065057.png?v=1540805956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Engine Accessories<br>
+        <strong>Price: </strong>
+            122.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2008-2010 Ford F-Series 6.4L Diesel Particulate Filter (DPF) and Diesel Oxidation Catalust (DOC) Installation Kit</p>
+<p> </p>
+<p>Alternate part number: AP0134</p>
+<p>Notes: Installation kit only.  If DPF is needed see AP70000 or AP700001 Diesel Particulate Filter (DPF). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.4L</s:tag>
+    <s:tag>DPF</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1514104848466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">122.00</s:price>
+      <s:sku>DPC-AP0134</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2366209622098</id>
+    <published>2019-01-09T12:54:39-07:00</published>
+    <updated>2019-01-09T12:54:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/stanadyne-filter-element"/>
+    <title>Stanadyne Filter Element</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/33169.jpg?v=1579514298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stanadyne Filter Element</p>
+<p>Part number 33169</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2366209622098</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>DPC-33169</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1516739952722</id>
+    <published>2018-11-01T10:03:31-06:00</published>
+    <updated>2018-11-01T10:03:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2005-2010-gm-duramax-6-6l-full-fuel-filter-assembly"/>
+    <title>2005-2010 GM Duramax 6.6L Full Fuel Filter Assembly</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/PFF4245R202.JPG?v=1541410559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            205.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2005-2010 GM Duramax 6.6 Full Fuel Filter Assembly LLY/LBZ/LMM</p>
+<p>Notes: Can be used on newer models by extending fuel lines, uses <a href="https://dieselpartscanada.ca/products/gm-2001-2011-6-6l-spin-on-fuel-filter">PFF50216</a> replacement</p>
+<p>Alternate numbers: 12642623 &amp; PFF4245R2-02</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1516739952722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">205.00</s:price>
+      <s:sku>PFF4245R2-02</s:sku>
+      <s:grams>1089</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1514127032402</id>
+    <published>2018-10-24T15:39:06-06:00</published>
+    <updated>2018-10-24T15:39:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2008-2010-ford-6-4l-f-series-replacement-fuel-pump"/>
+    <title>2008-2010 Ford 6.4L F-Series Replacement Fuel Pump</title>
+    <s:type>Fuel System Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-Image-Not-Available_1e9e43c2-09a4-4f5c-924f-7d1a229a535f.png?v=1540805954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Fuel System Components<br>
+        <strong>Price: </strong>
+            210.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2008-2010 Ford 6.4L F-250/F-550 Replacement Fuel Pump</p>
+<p>Alternate numbers: 8C3Z9G282A, PS423, HFP965 and PFF58529</p>
+<p>Notes: Does not include housing (see AP63450)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.4L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1514127032402</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">210.00</s:price>
+      <s:sku>DPC-PFP58529</s:sku>
+      <s:grams>590</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1405550231634</id>
+    <published>2018-05-29T16:07:31-06:00</published>
+    <updated>2018-05-29T16:07:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/clarcor-2-micron-filter-element"/>
+    <title>Clarcor 2 Micron Filter Element</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/35614.jpg?v=1528105870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Clarcor 2 Micron Filter Element</p>
+<p>Alternate number: 35614</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1405550231634</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku>DPC-35614</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1392979083346</id>
+    <published>2018-05-02T10:15:06-06:00</published>
+    <updated>2018-05-02T10:15:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/racor-crankcase-ventilation-filter"/>
+    <title>Racor Crankcase Ventilation Filter</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/ccv55274-08.jpg?v=1527008498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            107.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Racor Crankcase Ventilation Filter</p>
+<p>This high efficiency crankcase ventilation filter is used in several applications including:</p>
+<p>Caterpillar 163-7344, John Deere RE530346, Navistar GDTCCVFE03,</p>
+<p>Cummins  4019745,  and Waukesha 489604</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cummins</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1392979083346</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">107.00</s:price>
+      <s:sku>DPC-CCV55274-08</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/7100754949</id>
+    <published>2017-02-06T16:42:00-07:00</published>
+    <updated>2017-02-06T16:42:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/snapp-10-micron-filter-assembly-kit"/>
+    <title>SNAPP 10 Micron Filter Assembly Kit</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-RACOR-SEPARATOR-3.jpg?v=1527008583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The filter change that changes everything.</p>
+<p>Easy to install. Easy to service. Easy to prime.  No tools are needed.</p>
+<p>SNAPP filters by Racor is big protection for small engines with fuel flow up to 26 gph.</p>
+<p>This 10 micron kit can be used in any diesel fuel application including marine applications.</p>
+<p>Replacement filter part number: R23107-10</p>
+<p>Maximum Flow Rate: 26 gph</p>
+<p>Height: 7.8" (198 mm)</p>
+<p>Width: 3.8" (97mm) at bracket</p>
+<p>Depth: 4.1" (104 mm)</p>
+<p>Port Size: 3/8" (9.5 mm)</p>
+<p>Rated Pressure: 50 PSI (3.5 bar)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Filter</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/7100754949</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>23106-10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6978167813</id>
+    <published>2017-01-12T11:26:00-07:00</published>
+    <updated>2017-01-12T11:26:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2010-2013-navistar-maxxforce-7-oe-fuel-filter"/>
+    <title>2010-2013 Navistar MaxxForce 7 OE Fuel Filter</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PFF33286-14.jpg?v=1527499867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            99.00 - 110.00
+            <a href="https://dieselpartscanada.ca/products/2010-2013-navistar-maxxforce-7-oe-fuel-filter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2010-2013 Navistar MaxxForce 7 OE Fuel Filter</p>
+<p>OE part numbers: 1884207C92, PFF33286</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>International</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6978167813</id>
+      <title>1+</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku>DPC-PFF33286</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6978167813</id>
+      <title>6+</title>
+      <s:price currency="CAD">104.00</s:price>
+      <s:sku>DPC-PFF33286</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6978167813</id>
+      <title>12+</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>DPC-PFF33286</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6978039941</id>
+    <published>2017-01-12T11:11:00-07:00</published>
+    <updated>2017-01-12T11:11:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2001-2010-cummins-5-9l-dodge-ram-racor-fuel-filter"/>
+    <title>2001-2010 Cummins 5.9L Dodge Ram Racor Fuel Filter</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-FILTER-1.jpg?v=1527499796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            28.00 - 32.00
+            <a href="https://dieselpartscanada.ca/products/2001-2010-cummins-5-9l-dodge-ram-racor-fuel-filter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2001-2010 Cummins 5.9L Dodge Ram Racor Fuel Filter</p>
+<p>Alternate part numbers: 5015581AA, PFF19579</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5.9L</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6978039941</id>
+      <title>1+</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>DPC-PFF19579</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6978039941</id>
+      <title>6+</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>DPC-PFF19579</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6978039941</id>
+      <title>12+</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>DPC-PFF19579</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1512205746258</id>
+    <published>2017-01-11T11:46:00-07:00</published>
+    <updated>2017-01-11T11:46:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2014-cummins-6-7l-dodge-ram-oe-water-separator-element"/>
+    <title>2010+ Cummins 6.7L Dodge Ram OE Fuel Filter Cartridge</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/68157291AA.jpg?v=1540200708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            92.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2010+ Cummins 6.7L Dodge Ram OE Fuel Filter Cartridge</p>
+<p> </p>
+<p>OE Part numbers: 68157291AA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.7L</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1512205746258</id>
+      <title>1+</title>
+      <s:price currency="CAD">92.00</s:price>
+      <s:sku>DPC-68157291AA</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6969165957</id>
+    <published>2017-01-11T11:46:00-07:00</published>
+    <updated>2017-01-11T11:46:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2014-cummins-6-7l-dodge-ram-oe-fuel-filter"/>
+    <title>2014+ Cummins 6.7L Dodge Ram OE Fuel Filter</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PFF54529.jpg?v=1557135411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            64.00 - 72.00
+            <a href="https://dieselpartscanada.ca/products/2014-cummins-6-7l-dodge-ram-oe-fuel-filter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2014+ Cummins 6.7L Dodge Ram OE Fuel Filter</p>
+<p> </p>
+<p>OE Part numbers: 68197867AB, PFF54529</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.7L</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6969165957</id>
+      <title>1+</title>
+      <s:price currency="CAD">72.00</s:price>
+      <s:sku>DPC-PFF54529</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6969165957</id>
+      <title>6+</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku>DPC-PFF54529</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6969165957</id>
+      <title>12+</title>
+      <s:price currency="CAD">64.00</s:price>
+      <s:sku>DPC-PFF54529</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6969098309</id>
+    <published>2017-01-11T11:31:00-07:00</published>
+    <updated>2017-01-11T11:31:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/1997-1999-cummins-5-9l-dodge-ram-oe-fuel-filter"/>
+    <title>1997-1999 Cummins 5.9L Dodge Ram OE Fuel Filter</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/PFF19528.jpg?v=1527499777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            34.00 - 38.00
+            <a href="https://dieselpartscanada.ca/products/1997-1999-cummins-5-9l-dodge-ram-oe-fuel-filter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1997-1999 Cummins 5.9L Dodge Ram OE Fuel Filter</p>
+<p>OE part numbers: 4883963AC, PFF19528</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5.9L</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6969098309</id>
+      <title>1+</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>DPC-PFF19528</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6969098309</id>
+      <title>6+</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>DPC-PFF19528</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6969098309</id>
+      <title>12+</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>DPC-PFF19528</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2886172037</id>
+    <published>2015-11-13T09:09:00-07:00</published>
+    <updated>2015-11-13T09:09:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/1988-1994-ford-7-3l-fuel-filter-bowl-drain-assembly"/>
+    <title>1988-1994 Ford 7.3L Fuel Filter Bowl / Drain Assembly</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/pfrk20567.jpg?v=1527499753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1988-1994 Ford 7.3L Fuel Filter Bowl / Drain Assembly</p>
+<p>Notes: Use with DPC-PFF829B Spin-on Fuel Filter/Water Separator. Only fits 7.3L IDI Diesel</p>
+<p>Application: 1988 to 1994 F-Series, and E-Series</p>
+<p>Alternate part number: PFRK20567</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7.3L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2886172037</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku>DPC-PFRK20567</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/418416380</id>
+    <published>2015-02-06T15:50:00-07:00</published>
+    <updated>2015-02-06T15:50:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/1988-1994-ford-73-l-powerstroke-spin-on-fuel-filterwater-separator-racor"/>
+    <title>1988-1994 Ford 7.3 L PowerStroke Spin-on Fuel Filter/Water Separator (Racor)</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/pff829b.jpg?v=1527499752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            30.00 - 34.00
+            <a href="https://dieselpartscanada.ca/products/1988-1994-ford-73-l-powerstroke-spin-on-fuel-filterwater-separator-racor">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>1988-1994 Ford 7.3 L PowerStroke Spin-on Fuel Filter/Water Separator (Racor)</b></p>
+<p>Application: F Series, E Series</p>
+<p>Footnotes: Only fits 7.3 L IDI Diesel.</p>
+<hr>
+<p>Alternate Part Numbers: PFF829B, and FD3375</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7.3L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/418416380</id>
+      <title>1+</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>DPC-PF F829B</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/418416380</id>
+      <title>6+</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>DPC-PF F829B</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/418416380</id>
+      <title>12+</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>DPC-PF F829B</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/375226040</id>
+    <published>2014-10-17T11:33:00-06:00</published>
+    <updated>2014-10-17T11:33:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/gm-1994-2000-6-5l-fuel-oem-fuel-filter-retaining-ring"/>
+    <title>GM 1994-2000 6.5L OEM Fuel Filter Retaining Ring</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/29458.jpg?v=1527502112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GM 1994-2000 6.5L OEM Fuel Filter Retaining Ring</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.5L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/375226040</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>DPC-28694</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/234675525</id>
+    <published>2014-02-07T14:33:00-07:00</published>
+    <updated>2014-02-07T14:33:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/ford-powerstroke-racor-1998-5-2003-7-3l-fuel-filter-element-service-kit"/>
+    <title>Ford PowerStroke Racor 1998.5-2003 7.3L Fuel Filter Element Service Kit</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/pff4596.jpg?v=1527502099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            31.00 - 35.00
+            <a href="https://dieselpartscanada.ca/products/ford-powerstroke-racor-1998-5-2003-7-3l-fuel-filter-element-service-kit">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="line-height: 1.2;">Ford PowerStroke Racor 1998.5-2003 7.3L Fuel Filter Element Service Kit</span></p>
+<p> </p>
+<div class="page" title="Page 14">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 14">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>OEM Part Number: </span><span>FD4596</span></p>
+<p><span>1998.5-2003 F Series, Excursion, E Series</span></p>
+</div>
+</div>
+</div>
+</div>
+<p> </p>
+<p><span style="line-height: 1.2;">Navistar </span><span style="line-height: 1.2;">2003-2007 VT365</span></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7.3L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/234675525</id>
+      <title>1+</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>DPC-PFF4596</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/234675525</id>
+      <title>6+</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>DPC-PFF4596</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/234675525</id>
+      <title>12+</title>
+      <s:price currency="CAD">31.00</s:price>
+      <s:sku>DPC-PFF4596</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/234671457</id>
+    <published>2014-02-07T14:33:00-07:00</published>
+    <updated>2014-02-07T14:33:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/ford-powerstroke-racor-1994-1998-7-3l-fuel-filter-element-service-kit"/>
+    <title>Ford PowerStroke Racor 1994-1998 7.3L Fuel Filter Element Service Kit</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/pff4595.jpg?v=1527502098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            31.00 - 35.00
+            <a href="https://dieselpartscanada.ca/products/ford-powerstroke-racor-1994-1998-7-3l-fuel-filter-element-service-kit">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ford PowerStroke Racor 1994-1998 7.3L Fuel Filter Element Service Kit</p>
+<div class="page" title="Page 14">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p> </p>
+<p><span>OEM Part Number: </span><span>FD4495</span> </p>
+<p><span style="line-height: 1.2;">1994-1998 F Series, E Series </span><span></span></p>
+<p> </p>
+<p><span style="line-height: 1.2;">Navistar </span>OEM Part Number: 1822631C91</p>
+<div class="page" title="Page 42">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p><span>1994-2003 T444E</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7.3L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/234671457</id>
+      <title>1+</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>DPC-PFF4595</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/234671457</id>
+      <title>6+</title>
+      <s:price currency="CAD">33.00</s:price>
+      <s:sku>DPC-PFF4595</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/234671457</id>
+      <title>12+</title>
+      <s:price currency="CAD">31.00</s:price>
+      <s:sku>DPC-PFF4595</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+</feed>

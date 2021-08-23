@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dieselpartscanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dieselpartscanada.ca/collections/caterpillar.atom"/>
+  <title>Diesel Parts Canada</title>
+  <updated>2021-01-08T08:55:37-07:00</updated>
+  <author>
+    <name>Diesel Parts Canada</name>
+  </author>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/284340421</id>
+    <published>2021-01-08T08:55:37-07:00</published>
+    <updated>2021-01-08T08:55:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/stanadyne-winter-1000-diesel-fuel-additive"/>
+    <title>Stanadyne Winter 1000 Diesel Fuel Additive</title>
+    <s:type>Additive</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/stanadyne-winter-1000.jpg?v=1527008757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Additive<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Economic cold weather protection</strong></p>
+<ul>
+<li>Fuel Gelling Protection - pour point reduced by as much as 40°F (22°C), depending on base fuel</li>
+<li>Reduces ice formation of water in fuel</li>
+<li>Contains no alcohol</li>
+<li>Specially formulated for ultra low sulfur diesel</li>
+<li>Can be used with bio diesel up to B20 (20% bio content)</li>
+</ul>
+<p> </p>
+<table class="gridtable">
+<tbody>
+<tr>
+<td class="header">Size</td>
+<td>16 oz Pint (470 ml)</td>
+<td>5 Gallons (19 L)</td>
+</tr>
+<tr>
+<td class="header">Package Quantity</td>
+<td>12</td>
+<td>1</td>
+</tr>
+<tr>
+<td class="header">Treatment (1:1000)</td>
+<td>125 gal (470 L)</td>
+<td>5,000 gal (19,200 L)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Additive</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/284340421</id>
+      <title>Case of 12 (16 oz) Bottles</title>
+      <s:price currency="CAD">84.00</s:price>
+      <s:sku>DPC-38574</s:sku>
+      <s:grams>12701</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/2522734854226</id>
+    <published>2019-05-17T11:07:31-06:00</published>
+    <updated>2019-05-17T11:07:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/archoil-friction-modifier"/>
+    <title>Archoil AR9100 Friction Modifier</title>
+    <s:type>Additive</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/IMGL2016.jpg?v=1558346414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Additive<br>
+        <strong>Price: </strong>
+            32.00 - 325.00
+            <a href="https://dieselpartscanada.ca/products/archoil-friction-modifier">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Jug of Archoil Friction Modifier</strong></p>
+<p><strong>AR9100 </strong>forms a solid boundary lubricating film on friction surfaces which demostartes excellent load carrying, anti-corrosion &amp; antiwear properties. AR9100's esters gently remove fluid system deposits while improving the antioxidative, extreme pressure &amp; film forming properties of its host oil.</p>
+<ul>
+<li>Reduces Engine Noise, Vibration &amp; Friction Heat</li>
+<li>Protects Engine During Cold Starts</li>
+<li>Reduces wear &amp; Extends Component Life</li>
+<li>Gently Cleans Engine Deposits</li>
+<li>Eliminates Ford Powerstroke 6.0L &amp; 7.3L</li>
+</ul>
+<p> </p>
+<meta charset="utf-8">
+<p> AR9100</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2522734854226</id>
+      <title>8 oz</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>DPC-AR9100-8</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2522734854226</id>
+      <title>16 oz</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku>DPC-AR9100-16</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/2522734854226</id>
+      <title>128 oz</title>
+      <s:price currency="CAD">325.00</s:price>
+      <s:sku>AR9100-1G</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485767409746</id>
+    <published>2018-08-30T12:01:18-06:00</published>
+    <updated>2018-08-30T12:01:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/2-piece-specialty-pick-set"/>
+    <title>2 Piece Specialty Pick Set</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Pick_Set.jpg?v=1535966697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 Piece Specialty Pick Set</p>
+<p>Hardened tips, and knurled center grips for easily removing and installing o-rings and seals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485767409746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>DPC-W80750</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485764395090</id>
+    <published>2018-08-30T11:56:56-06:00</published>
+    <updated>2018-08-30T11:56:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/6-stainless-steel-magnetic-bowl"/>
+    <title>6&quot; Stainless Steel Magnetic Bowl</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Magnetic_Tray.jpg?v=1535969471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6" Stainless Steel Magnetic Bowl</p>
+<p>6" x 1.2" depth magnetic bowl for keeping all your nuts and bolts in one place.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>Fuel Pump</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485764395090</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>DPC-636-001</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485762035794</id>
+    <published>2018-08-30T11:48:07-06:00</published>
+    <updated>2018-08-30T11:48:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/brakleen-original-non-flammable-parts-cleaner-539-gram-aerosol-can"/>
+    <title>Brakleen Original Non-flammable Parts Cleaner 539 Gram Aerosol Can</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Brakleen.jpg?v=1535969476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brakleen Original Non-flammable Parts Cleaner 539 Gram Aerosol Can</p>
+<p>The original Brakleen, our premium strength formula. Chlorinated formula quickly removes dust, fluid, grease and other contaminants. Great for all brake systems and so much more. Cleans fast and dries faster.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485762035794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>DPC-75089</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485760790610</id>
+    <published>2018-08-30T11:40:08-06:00</published>
+    <updated>2018-08-30T11:40:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/telescoping-magnetic-pickup"/>
+    <title>Telescoping Magnetic Pickup</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Pullout_magnet.jpg?v=1579514304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Telescoping Magnetic Pickup</p>
+<p>Magnetic pickup for retrieving screws, nuts, and nails from hard to reach places.</p>
+<p>Extends 5.25" to 23" and holds up to 7 lbs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485760790610</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>DPC-07568B</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485759348818</id>
+    <published>2018-08-30T11:30:17-06:00</published>
+    <updated>2018-08-30T11:30:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/liquid-wrench-170-gram-aerosol-can-of-penetrating-oil"/>
+    <title>Liquid Wrench 170 Gram Aerosol Can of Penetrating Oil</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Liquid_Wrench.jpg?v=1579514294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Liquid Wrench 170 Gram Aerosol Can of Penetrating Oil</p>
+<p>A powerful blend of quick-acting, fast penetrating solvents that loosens rusted nuts, bolts and parts in seconds.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485759348818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>DPC-L106C</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485756268626</id>
+    <published>2018-08-30T11:21:43-06:00</published>
+    <updated>2018-08-30T11:21:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/loctite-242-threadlocker-medium-strength-removable"/>
+    <title>Loctite 242 Threadlocker Medium Strength, Removable</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Loctite_242_6ml.jpg?v=1579514295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Loctite 242 Threadlocker Medium Strength, Removable</p>
+<p>Removable strength, general purpose threadlocking adhesive well suited for fasteners between 1/4" and 3/4" diameter (6 to 20 mm). Applied to threaded components before assembly, parts can be separated using hand tools.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485756268626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>DPC-38621</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485750534226</id>
+    <published>2018-08-30T10:53:29-06:00</published>
+    <updated>2018-08-30T10:53:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/dielectric-grease-0-33-oz-tube"/>
+    <title>Dielectric Grease 0.33 oz Tube</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Loctite_30536.jpg?v=1535969486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dielectric Grease 0.33 oz Tube</p>
+<p>Provides a moisture-proof barrier that lubricates and protects electrical equipment from salt, dirt, and corrosion. High dielectric strength. Good thermal, oxidation, and chemical stability.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485750534226</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>DPC-30536</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485745324114</id>
+    <published>2018-08-30T10:12:27-06:00</published>
+    <updated>2018-08-30T10:12:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/wd-40-311-gram-aerosol-can"/>
+    <title>WD-40 - 311 gram Aerosol Can</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/WD-40.jpg?v=1579514306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> WD-40 - 311 gram Aerosol Can </p>
+<p>Known as "the can with thousands of uses," WD-40 protects metal from rust and corrsion, penetrates stuck parts, displaces moisture, and lubricates just about anything.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Fuel Pump</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>Performance</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485745324114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>DPC-01011</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1454052966482</id>
+    <published>2018-07-20T11:19:02-06:00</published>
+    <updated>2018-07-20T11:19:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/10-litre-jug-of-diesel-exhaust-fluid-def"/>
+    <title>10 Litre Jug of Diesel Exhaust Fluid (DEF)</title>
+    <s:type>Additive</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DEF_Fluid.jpg?v=1532337751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Additive<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>10 Litre Jug of Diesel Exhaust Fluid (DEF)</p>
+<ul>
+<li>ISO 22241 compliant</li>
+<li>Compliant with OEM warranties</li>
+<li>Dispensing nozzle included</li>
+</ul>
+Alternate part number: DEF946
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1454052966482</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>DPC-DEF946</s:sku>
+      <s:grams>10886</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/290831485</id>
+    <published>2017-02-24T11:36:00-07:00</published>
+    <updated>2017-02-24T11:36:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/stanadyne-additive-sampler-pack"/>
+    <title>Fuel Additive Sampler Pack</title>
+    <s:type>Additive</s:type>
+    <s:vendor>Stanadyne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-DPC_ADDITIVE_SAMPLER_PACK-12.jpg?v=1527502106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stanadyne<br>
+        <strong>Type: </strong>Additive<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New to Diesel Fuel Additives and not sure which one to buy? Or just want to try out the industry-leading offerings? Here's your chance! Diesel Parts Canada is happy to have a Fuel Additive Sample Pack available, where you get one of each of the following products:</p>
+<p><strong>One 16 oz bottle of Alliant Power ULTRAGUARD Diesel Fuel Treatment</strong><br> All-season, multi-functional fuel treatment that provides complete fuel system and injector protection for all diesel engines.</p>
+<p><strong>One 16 oz bottle of Alliant Power LUBRIGUARD Diesel Fuel Treatement</strong><br> Highly concentrated lubricating fuel treatment with cetane improver that provides superior fuel system protection for all diesel engines.</p>
+<p><strong>One 16 oz bottle of Alliant Power WINTERGUARD Diesel Fuel Treatment</strong><br> ﻿Cold weather fuel treatment designed to prevent common diesel fuel issues relating to extreme cold temperatures.</p>
+<p><strong>One 8 oz bottle of Stanadyne Performance Formula All Season Diesel Fuel Additive</strong><br> The premium all-season, multi-function diesel fuel additive, designed to tackle virtually any diesel fuel related problem.</p>
+<p><strong>One 8 oz bottle of Stanadyne Performance Formula Warm Weather Blend Diesel Fuel Additive</strong><br> Formulated to provide the same benefits as Performance. Formula All Season Protection (Blue Label) except without cold weather protection. Performance Formula Warm Weather Blend is recommended when ambient temperatures are above 40°F (4° C).</p>
+<p><strong>One 8 oz bottle of Stanadyne Performance Formula Injector Cleaner Diesel Fuel Additive</strong><br> Stanadyne Performance Formula Injector Cleaner is formulated to prevent and eliminate Internal Diesel Injector Deposits (IDID) commonly found in Common Rail and other type of Injectors. These deposits affect injector performance, which results in various engine related issues.</p>
+<p><strong>One 8 oz bottle of Stanadyne Lubricity Formula Diesel Fuel Additive</strong><br> Extra strength lubricity formula to protect fuel systems against the effect of untreated diesel fuel.</p>
+<p><strong>One 8 oz bottle of Stanadyne Gasoline Fuel Additive</strong><br> Stanadyne Gasoline Additive is designed to protect Gasoline Direct Injection and traditional gas fuel systems, while restoring engine performance. This unique formula helps eliminate deposits that form on critical fuel system and engine components to keep those components clean, lubricated, and maintenance free.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Additive</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/290831485</id>
+      <title>4 x 8 oz 3 x 16 oz</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku>DPC-FUELSAMPLE</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6793297733</id>
+    <published>2016-11-01T11:45:00-06:00</published>
+    <updated>2016-11-01T11:45:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/alliant-power-lubriguard-diesel-fuel-treatment"/>
+    <title>Alliant Power LUBRIGUARD™ Diesel Fuel Treatment</title>
+    <s:type>Additive</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-ALLIANT_POWER_LUBRIGUARD_GROUP-27.jpg?v=1527502024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Additive<br>
+        <strong>Price: </strong>
+            90.00 - 215.00
+            <a href="https://dieselpartscanada.ca/products/alliant-power-lubriguard-diesel-fuel-treatment">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LUBRIGUARD™ is a highly concentrated lubricating fuel treatment with cetane improver that provides superior fuel system protection for all diesel engines in warm weather environments. LUBRIGUARD™ has been developed using a unique combination of additives designed to supplement dry fuels that are known to cause premature wear of the fuel system. This diesel fuel treatment is available in three different sizes listed in the table below. Lubricates Fuel System Reducing Friction &amp; Wear Restores Engine Power &amp; Torque Improves Fuel Economy Increases Cetane for Improved Engine Combustion Cleans Internal &amp; External Injector Deposits Stabilizes &amp; Extends Fuel Shelf Life Removes Water by Demulsification Protects Against Fuel System Rust &amp; Corrosion Alliant Power LUBRIGUARD™ has been formulated using technologically advanced chemistry designed to protect the most advanced high-pressure common rail diesel fuel systems as well as conventional fuel systems. LUBRIGUARD™ is alcohol free, compatible with ultra-low sulfur diesel (ULSD), bio-diesel (up to B20), and exhaust aftertreatment emission systems (DPF &amp; SCR).</p>
+<table id="tablepress-3" class="tablepress tablepress-id-3 dataTable no-footer" role="grid">
+<thead>
+<tr class="row-1 odd" role="row">
+<th class="column-1 sorting_disabled" rowspan="1" colspan="1" style="text-align: center;">Part Number</th>
+<th class="column-2 sorting_disabled" rowspan="1" colspan="1" style="text-align: center;">Size</th>
+<th class="column-3 sorting_disabled" rowspan="1" colspan="1" style="text-align: center;">Quantity Per Case</th>
+<th class="column-4 sorting_disabled" rowspan="1" colspan="1" style="text-align: center;">US Gallons / Litres Treated</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even" role="row">
+<td class="column-1" style="text-align: center;">AP0523</td>
+<td class="column-2" style="text-align: center;">16 oz (473 mL)</td>
+<td class="column-3" style="text-align: center;">12</td>
+<td class="column-4" style="text-align: center;">125 gal (473L)</td>
+</tr>
+<tr class="row-3 odd" role="row">
+<td class="column-1" style="text-align: center;">AP0524</td>
+<td class="column-2" style="text-align: center;">64 oz (1.9L)</td>
+<td class="column-3" style="text-align: center;">6</td>
+<td class="column-4" style="text-align: center;">500 gal (1,900L)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Additive</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6793297733</id>
+      <title>8 oz (237 ml) case of 24</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku>DPC-AP0529</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6793297733</id>
+      <title>16 oz (473ml) case of 12</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>DPC-AP0523</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6793297733</id>
+      <title>64 oz (1.9L) case of 6</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku>DPC-AP0524</s:sku>
+      <s:grams>10800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6793297733</id>
+      <title>5 gallon (19L) pail</title>
+      <s:price currency="CAD">215.00</s:price>
+      <s:sku>DPC-AP0525</s:sku>
+      <s:grams>19051</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6793273221</id>
+    <published>2016-11-01T11:45:00-06:00</published>
+    <updated>2016-11-01T11:45:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/alliant-power-winterguard-diesel-fuel-treatment"/>
+    <title>Alliant Power WINTERGUARD™ Diesel Fuel Treatment</title>
+    <s:type>Additive</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-ALLIANT_POWER_WINTERGUARD_GROUP-11.jpg?v=1527502025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Additive<br>
+        <strong>Price: </strong>
+            81.00 - 120.00
+            <a href="https://dieselpartscanada.ca/products/alliant-power-winterguard-diesel-fuel-treatment">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="x-text">
+<p> </p>
+</div>
+<meta charset="utf-8">
+<div class="x-container max width">
+<div class="x-column x-sm x-1-1">
+<div class="x-text">
+<p>WINTERGUARD™ is a cold weather fuel treatment designed to prevent common diesel fuel issues relating to extreme cold temperatures providing improved cold starting and cold weather engine performance. This diesel fuel treatment is available in four sizes listed in the table below.</p>
+</div>
+<div class="x-columnize">
+<ul>
+<li>Provides Anti-Gel Protection</li>
+<li>Prevents Ice Formation in Fuel</li>
+<li>Improves Diesel Pour Point by up to 40°F/22°C</li>
+<li>Improves Fuel Filter Plug Point by up to 40°F/22°C</li>
+</ul>
+</div>
+<div class="x-text">
+<p>Alliant Power WINTERGUARD™ has been formulated using technologically advanced chemistry designed to prevent cold starting issues in extreme cold weather. WINTERGUARD™ is alcohol free, compatible with ultra-low sulfur diesel (ULSD), bio-diesel (up to B20), and exhaust aftertreatment emission systems (DPF &amp; SCR).</p>
+</div>
+</div>
+</div>
+<div class="x-text">
+<table id="tablepress-2" class="tablepress tablepress-id-2 dataTable no-footer" role="grid" style="width: 695px;">
+<thead>
+<tr class="row-1 odd" role="row" style="height: 21px;">
+<th class="column-1 sorting_disabled" rowspan="1" colspan="1" style="width: 117px; height: 21px;">Part Number</th>
+<th class="column-2 sorting_disabled" rowspan="1" colspan="1" style="width: 180.102px; height: 21px;">Size</th>
+<th class="column-3 sorting_disabled" rowspan="1" colspan="1" style="width: 129.898px; height: 21px;">Quantity Per Case</th>
+<th class="column-4 sorting_disabled" rowspan="1" colspan="1" style="width: 248px; height: 21px;">US Gallons / Litres Treated</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even" role="row" style="height: 21.088px;">
+<td class="column-1" style="width: 117px; height: 21.088px; text-align: center;">AP0519</td>
+<td class="column-2" style="width: 180.102px; height: 21.088px; text-align: center;">16 oz (473 mL)</td>
+<td class="column-3" style="width: 129.898px; height: 21.088px; text-align: center;">12</td>
+<td class="column-4" style="width: 248px; height: 21.088px; text-align: center;">125 gal (473L)</td>
+</tr>
+<tr class="row-3 odd" role="row" style="height: 21px;">
+<td class="column-1" style="width: 117px; height: 21px; text-align: center;">AP0520</td>
+<td class="column-2" style="width: 180.102px; height: 21px; text-align: center;">64 oz (1.9L)</td>
+<td class="column-3" style="width: 129.898px; height: 21px; text-align: center;">6</td>
+<td class="column-4" style="width: 248px; text-align: center; height: 21px;">500 gal (1,900L)</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Additive</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6793273221</id>
+      <title>16 oz (473 ml) case of 12</title>
+      <s:price currency="CAD">81.00</s:price>
+      <s:sku>DPC-AP0519</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6793273221</id>
+      <title>64 oz (1.9L) case of 6</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku>DPC-AP0520</s:sku>
+      <s:grams>10800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6606225861</id>
+    <published>2016-11-01T11:45:00-06:00</published>
+    <updated>2016-11-01T11:45:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/alliant-power-ultraguard-diesel-fuel-treatment"/>
+    <title>Alliant Power ULTRAGUARD™ Diesel Fuel Treatment</title>
+    <s:type>Additive</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-ALLIANT_POWER_ULTRAGUARD_GROUP-25.jpg?v=1529346924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Additive<br>
+        <strong>Price: </strong>
+            105.00 - 278.00
+            <a href="https://dieselpartscanada.ca/products/alliant-power-ultraguard-diesel-fuel-treatment">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div class="x-text">
+<p>ULTRAGUARD™ is an all-season, multi-functional fuel treatment that provides complete fuel system and injector protection for all diesel engines. ULTRAGUARD™ is designed to improve base diesel fuel quality providing superior fuel system protection under all operating conditions. This premium diesel fuel treatment is available in 4 different sizes listed in the table below.</p>
+</div>
+<div class="x-columnize">
+<ul>
+<li>Restores Engine Power, Torque, &amp; Improves Fuel Economy</li>
+<li>Increases Cetane for Improved Engine Combustion</li>
+<li>Cleans Deposits &amp; Eliminates Stiction in Common Rail Injectors</li>
+<li>Removes Water by Demulsification, Stabilizes, &amp; Protects Against Rust &amp; Corrosion</li>
+<li>Lubricates Fuel System Reducing Friction &amp; Wear</li>
+<li>Provides Anti-Gel Protection &amp; Improves Diesel Pour Point</li>
+<li>Reduces Particulates in Exhaust Aftertreatment Systems (DPF &amp; SCR)</li>
+<li>Minimizes Filter Clogging from Asphaltenes</li>
+</ul>
+</div>
+<div class="x-text">
+<p>Alliant Power ULTRAGUARD™ has been formulated using technologically advanced chemistry<br>designed to protect the most advanced high-pressure common rail diesel fuel systems as<br>well as conventional fuel systems. ULTRAGUARD™ is alcohol free, compatible with ultra-low sulfur diesel (ULSD), bio-diesel (up to B20), and exhaust aftertreatment emission systems (DPF &amp; SCR).</p>
+</div>
+<div class="x-raw-content">
+<div id="tablepress-1_wrapper" class="dataTables_wrapper no-footer">
+<table id="tablepress-1" class="tablepress tablepress-id-1 dataTable no-footer" role="grid" style="width: 684px;">
+<thead>
+<tr class="row-1 odd" role="row">
+<th class="column-1 sorting_disabled" rowspan="1" colspan="1" style="text-align: center; width: 116px;">Part Number</th>
+<th class="column-2 sorting_disabled" rowspan="1" colspan="1" style="text-align: center; width: 158.213px;">Size</th>
+<th class="column-3 sorting_disabled" rowspan="1" colspan="1" style="text-align: center; width: 141.787px;">Quantity Per Case</th>
+<th class="column-4 sorting_disabled" rowspan="1" colspan="1" style="text-align: center; width: 245px;">US Gallons / Litres Treated</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even" role="row">
+<td class="column-1" style="text-align: center; width: 116px;">AP0513</td>
+<td class="column-2" style="text-align: center; width: 158.213px;">8 oz (237 ml)</td>
+<td class="column-3" style="text-align: center; width: 141.787px;">24</td>
+<td class="column-4" style="text-align: center; width: 245px;">30 gal (114L</td>
+</tr>
+<tr class="row-3 odd" role="row">
+<td class="column-1" style="text-align: center; width: 116px;">AP0514</td>
+<td class="column-2" style="text-align: center; width: 158.213px;">16 oz (473 ml)</td>
+<td class="column-3" style="text-align: center; width: 141.787px;">12</td>
+<td class="column-4" style="text-align: center; width: 245px;">60 gal (227L)</td>
+</tr>
+<tr class="row-4 even" role="row">
+<td class="column-1" style="text-align: center; width: 116px;">AP0515</td>
+<td class="column-2" style="text-align: center; width: 158.213px;">32 oz (946 ml)</td>
+<td class="column-3" style="text-align: center; width: 141.787px;">12</td>
+<td class="column-4" style="text-align: center; width: 245px;">125 gal (473L)</td>
+</tr>
+<tr class="row-5 odd" role="row">
+<td class="column-1" style="text-align: center; width: 116px;">AP0516</td>
+<td class="column-2" style="text-align: center; width: 158.213px;">64 oz (1.9L)</td>
+<td class="column-3" style="text-align: center; width: 141.787px;">6</td>
+<td class="column-4" style="text-align: center; width: 245px;">250 gal (946L)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Additive</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6606225861</id>
+      <title>8 oz (237ml) case of 24</title>
+      <s:price currency="CAD">126.00</s:price>
+      <s:sku>DPC-AP0513</s:sku>
+      <s:grams>6123</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6606225861</id>
+      <title>16 oz (473ml) case of 12</title>
+      <s:price currency="CAD">105.00</s:price>
+      <s:sku>DPC-AP0514</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6606225861</id>
+      <title>32 oz (946ml) case of 12</title>
+      <s:price currency="CAD">180.00</s:price>
+      <s:sku>DPC-AP0515</s:sku>
+      <s:grams>19051</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6606225861</id>
+      <title>64 oz (1.9L) case of 6</title>
+      <s:price currency="CAD">177.00</s:price>
+      <s:sku>DPC-AP0516</s:sku>
+      <s:grams>10800</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6606225861</id>
+      <title>5 gallon (19L) pail</title>
+      <s:price currency="CAD">278.00</s:price>
+      <s:sku>DPC-AP0517</s:sku>
+      <s:grams>19051</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/5720526725</id>
+    <published>2016-06-02T14:28:00-06:00</published>
+    <updated>2016-06-02T14:28:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/c7-cat-remanufactured-injector"/>
+    <title>C7 CAT Remanufactured Injector</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-EX634763-21.jpg?v=1557135417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            1205.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>C7 CAT Remanufactured Injector</p>
+<p>OE Part number: 10R4763, 214-3400, 233-3535, 236-0974, 238-8091, 241-3400, 295-1410, and 328-2582</p>
+<ul>
+<li><span style="font-size: 1rem; letter-spacing: initial; line-height: 1.42857rem; text-transform: initial;">New unique trim code.</span></li>
+<li><span style="font-size: 1rem; letter-spacing: initial; line-height: 1.42857rem; text-transform: initial;">100% surface lapping on critical components.</span></li>
+<li><span style="font-size: 1rem; letter-spacing: initial; line-height: 1.42857rem; text-transform: initial;">100% o-ring replacement.</span></li>
+<li><span style="font-size: 1rem; letter-spacing: initial; line-height: 1.42857rem; text-transform: initial;">12 month, unlimited mileage.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/5720526725</id>
+      <title>Core Charge / 315</title>
+      <s:price currency="CAD">1205.00</s:price>
+      <s:sku>DPC-EX634763</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/1485750927442</id>
+    <published>2014-08-11T15:56:00-06:00</published>
+    <updated>2014-08-11T15:56:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/mechanix-original-gloves"/>
+    <title>Mechanix Original Blue Gloves</title>
+    <s:type>Other</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Mechanix_Gloves_Blue.jpg?v=1579514297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Other<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mechanix Original Blue Gloves</p>
+<p> Durable synthetic leather palm provides ultimate dexterity. Two-way stretch knit spandex back of the hand provides comfort and ventelation. TPR wrist closure for secure fit. Machine washable.</p>
+<p> </p>
+<p> </p>
+<p>Sizing Details:</p>
+<p>Medium/Size 9</p>
+<p>Large/Size 10</p>
+<p>Extra Large/Size 11</p>
+<p>Double Extra Large/Size 12</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3.0L</s:tag>
+    <s:tag>4.5L</s:tag>
+    <s:tag>5.9L</s:tag>
+    <s:tag>6.0L</s:tag>
+    <s:tag>6.4L</s:tag>
+    <s:tag>6.5L</s:tag>
+    <s:tag>6.6L</s:tag>
+    <s:tag>6.7L</s:tag>
+    <s:tag>6.7L PowerStroke</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>7.3L</s:tag>
+    <s:tag>8.1L</s:tag>
+    <s:tag>9.0L</s:tag>
+    <s:tag>Apparel</s:tag>
+    <s:tag>CAT</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>Isuzu</s:tag>
+    <s:tag>Jeep</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes-Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>Performance</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Smart Car</s:tag>
+    <s:tag>Sprinter</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>TDI</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:tag>VW</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485750927442</id>
+      <title>Medium Size 9</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>DPC-MG-03-009</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485750927442</id>
+      <title>Large Size 10</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>DPC-MG-03-010</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485750927442</id>
+      <title>Extra Large Size 11</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>DPC-MG-03-011</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/1485750927442</id>
+      <title>Double Extra Large Size 12</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>DPC-MG-03-012</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/5530233861</id>
+    <published>2014-07-30T17:15:00-06:00</published>
+    <updated>2014-07-30T17:15:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/diamond-gard-1998-current-brushless-pad-mount-a200-5-wire-12v-alternator"/>
+    <title>Diamond Gard 1998-Current Brushless, Pad Mount, A200, 5-wire 12V Alternator</title>
+    <s:type>Engine Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AM1771-2_5b1ac2b9-1fc5-4d11-b3f5-a89ec65fe5cc.jpg?v=1527502036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Engine Components<br>
+        <strong>Price: </strong>
+            575.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p> </p>
+<p>Diamond Gard 1998-Current Brushless, Pad Mount, 200A, 5-wire 12V Alternator</p>
+<p> </p>
+<p><span style="line-height: 1.2;">Application: </span></p>
+<p><span style="line-height: 1.2;">1998-Current </span>heavy duty vehicle with pad mounted alternator</p>
+<div></div>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<ul>
+<li>Diamond-Gard Alternators are designed to last over 1,000,000 miles</li>
+<li>Best in class efficiency puts money in your pocket</li>
+<li>One part number is a direct replacement for ALL Remy, Leece-Neville, BOSCH, and Denso PAD-mount alternators</li>
+<li>Supports up to 5-wire connection (including remote sense)</li>
+<li>Exceeds 135 amps output at idle</li>
+<li>Exceeds industry requirements for heat, vibration, and corrosion resistance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/5530233861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">575.00</s:price>
+      <s:sku>DPC-AM0071</s:sku>
+      <s:grams>10002</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351612713</id>
+    <published>2014-07-30T17:15:00-06:00</published>
+    <updated>2014-07-30T17:15:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/diamond-gard-1998-current-brushless-pad-mount-160a-5-wire-12v-alternator"/>
+    <title>Diamond Gard 1998-Current Brushless, Pad Mount, 160A, 5-wire 12V Alternator</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AM1771-2.jpg?v=1527502035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p> </p>
+<p>Diamond Gard 1998-Current Brushless, Pad Mount, 160A, 5-wire 12V Alternator</p>
+<p> </p>
+<p><span style="line-height: 1.2;">Application: </span></p>
+<p><span style="line-height: 1.2;">1998-Current </span>heavy duty vehicle with pad mounted alternator</p>
+<div></div>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Diamond-Gard Alternators are designed to last over 1,000,000 miles</li>
+<li>Best in class efficiency puts money in your pocket</li>
+<li>One part number is a direct replacement for ALL Remy, Leece-Neville, BOSCH, and Denso PAD-mount alternators</li>
+<li>Supports up to 5-wire connection (including remote sense)</li>
+<li>Exceeds 100 amps output at idle</li>
+<li>Exceeds industry requirements for heat, vibration, and corrosion resistance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>Mack</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:tag>Mercedes Benz</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PACCAR</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:tag>Prevost</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:tag>Volvo</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351612713</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">399.00</s:price>
+      <s:sku>DPC-AM1771</s:sku>
+      <s:grams>10002</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351608425</id>
+    <published>2014-07-30T17:04:00-06:00</published>
+    <updated>2014-07-30T17:04:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/peterbilt-1998-2006-cat-c15-c15-acert-12v-starter"/>
+    <title>Peterbilt 1998-2006 CAT C15 / C15 ACERT 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-2_e3e2ad44-a0ea-4f05-8be9-0ca279018960.jpg?v=1527008337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p></p>
+<p><span style="line-height: 1.2;">Application: </span></p>
+<p><span style="line-height: 1.2;">Peterbilt Only </span></p>
+<p><span style="line-height: 1.2;">1998-2006 CAT C15 / C15 ACERT </span></p>
+<p></p>
+<p><span>*Note: Product may not be exactly as shown</span></p>
+<p></p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351608425</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-PC0979</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351604969</id>
+    <published>2014-07-30T16:55:00-06:00</published>
+    <updated>2014-07-30T16:55:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/mci-motorcoach-1998-2003-detroit-diesel-s60-2004-current-cat-c12-2007-current-cat-c13-1998-current-cummins-ism-24v-starter"/>
+    <title>MCI Motorcoach 1998-2003 Detroit Diesel S60, 2004-Current CAT C12, 2007-Current CAT C13, 1998-Current Cummins ISM 24V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-10_5b520644-167a-4544-9e7b-b8229d1dcafd.jpg?v=1527008303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            419.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p></p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p>MCI Motorcoach</p>
+<p>1998-2003 Detroit Diesel S60</p>
+<p>2004-Current CAT C12</p>
+<p>2007-Current CAT C13 ACERT</p>
+<p>1998-Current Cummins ISM</p>
+<p></p>
+<p><span>*Note: Product may not be exactly as shown</span></p>
+<p></p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>MCI Motorcoach</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351604969</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">419.00</s:price>
+      <s:sku>DPC-MC2378</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351595297</id>
+    <published>2014-07-30T16:37:00-06:00</published>
+    <updated>2014-07-30T16:37:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/international-1998-current-cummins-isx-ism-n14-m11-1998-2003-cat-c12-c15-2004-2009-cat-c13-c15-navistar-maxxforce-15-12v-starter"/>
+    <title>International 1998-Current Cummins ISX / ISM / N14 / M11, 1998-2003 CAT C12 / C15, 2004-2009 CAT C13 / C15, Navistar MaxxForce 15  12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-6_4bd90526-cee0-467d-b99d-12b4bc9a057d.jpg?v=1527008213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p> </p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p><span style="line-height: 1.2;">International </span></p>
+<p><span style="line-height: 1.2;">1998-Current Cummins ISX / ISM / N14 / M11</span></p>
+<p><span style="line-height: 1.2;">1998-2003 CAT C12 / C15</span></p>
+<p><span style="line-height: 1.2;">2004-2009 CAT C13 / C15 ACERT</span></p>
+<p><span style="line-height: 1.2;">Navistar MaxxForce 15 </span></p>
+<p> </p>
+<p><span style="line-height: 1.2;"><span>*Note: Product may not be exactly as shown</span></span></p>
+<p> </p>
+<p> </p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>International</s:tag>
+    <s:tag>MaxxForce</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351595297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-IN1478</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351592785</id>
+    <published>2014-07-30T16:33:00-06:00</published>
+    <updated>2014-07-30T16:33:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/freightliner-and-sterling-2007-current-cat-hd-engine-12v-starter"/>
+    <title>Freightliner and Sterling 2007-Current CAT HD Engine 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-6_5b65147e-ef30-4d08-9632-3b1cecc95f16.jpg?v=1527502105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p> </p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p>Freightliner and Sterling</p>
+<p><span style="line-height: 1.2;">2007-Current CAT HD Engine </span></p>
+<p> </p>
+<p><span>*Note: Product may not be exactly as shown</span></p>
+<p> </p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351592785</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-FL0975</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351591133</id>
+    <published>2014-07-30T16:30:00-06:00</published>
+    <updated>2014-07-30T16:30:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/freightliner-and-sterling-1998-2006-detroid-diesel-s60-1998-2003-cat-c10-c12-c15-2004-2006-cat-c11-c13-c15-1998-2002-cummins-isx-ism-n14-12v-starter"/>
+    <title>Freightliner and Sterling 1998-2006 Detroit Diesel S60, 1998-2003 CAT C10 / C12 / C15, 2004-2006 CAT C11 / C13 / C15, 1998-2002 Cummins ISX / ISM / N14 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-3.jpg?v=1527502102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p> </p>
+<p>Part Number: FL0579</p>
+<p> </p>
+<p><span style="line-height: 1.2;">Application:</span></p>
+<p>Freightliner and Sterling</p>
+<p>1998-2006 Detroit Diesel S60</p>
+<p>1998-2003 CAT C10 / C12 / C15</p>
+<p>2004-2006 CAT C11 / C13 / C15 ACERT</p>
+<p>1998-2002 Cummins ISX / ISM / N14 12V Starter</p>
+<p> </p>
+<p>*Note: Product may not be exactly as shown</p>
+<p> </p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Detroit Diesel</s:tag>
+    <s:tag>Freightliner</s:tag>
+    <s:tag>Sterling</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351591133</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-FL0579</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/351565505</id>
+    <published>2014-07-30T15:21:00-06:00</published>
+    <updated>2014-07-30T15:21:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/peterbilt-and-kenworth-1998-2003-cat-c9-c10-c12-2004-2006-cat-c11-2004-current-cat-c9-c13-2007-2010-cat-c15-1998-current-cummins-isx-ism-n14"/>
+    <title>Peterbilt and Kenworth 1998-2003 CAT C9 / C10 / C12, 2004-2006 CAT C11,  2004-Current CAT C9 / C13, 2007-2010 CAT C15, 1998-Current Cummins ISX / ISM / N14 12V Starter</title>
+    <s:type>Components</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-PC1379-4_f3de1926-122e-4b26-9e11-97d9b362cd1a.jpg?v=1527008360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Components<br>
+        <strong>Price: </strong>
+            409.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mitsubishi Electric Diamond Gard Genuine OEM Part</p>
+<p></p>
+<p>Part Number: PC1479</p>
+<p>Starter Relay Part Number: 2440887</p>
+<p>Starer Solenoid Part Number: 12-11481</p>
+<p></p>
+<p>Application:</p>
+<p>Peterbilt and Kenworth</p>
+<p>1998-2003 CAT C9 / C10 / C12</p>
+<p>2004-2006 CAT C11 ACERT</p>
+<p>2004-Current CAT C9 / C13 ACERT</p>
+<p>2007-2010 CAT C15 ACERT</p>
+<p>1998-Current Cummins ISX / ISM / N14</p>
+<p></p>
+<p><span>*Note: Product may not be exactly as shown</span></p>
+<p></p>
+<h2>Details</h2>
+<p><strong>If it fails, we'll replace it. Guaranteed.</strong></p>
+<p><a href="http://www.dieselpartscanada.ca/pages/mitsubishi-electric-diamond-gard-starters-and-alternators">See a full application chart, diagnostic worksheets, and more by clicking here.</a></p>
+<ul>
+<li>Designed, engineered, and manufactured to exceed truck manufacturer's expectations</li>
+<li>Weighing only 29 pounds, our starters have an industry-leading power-to-weight ratio for faster starts and reduced vehicle weight</li>
+<li>High-efficiency design to withstand the extreme start-stop requirements resulting from anti-idiling laws</li>
+<li>Lower current draw than the competition which results in less battery discharge every time you start your truck</li>
+<li>Eliminates the need for over-crank protection (OCP)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CAT</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>KENWORTH</s:tag>
+    <s:tag>PETERBILT</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/351565505</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.00</s:price>
+      <s:sku>DPC-PC1479</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+</feed>

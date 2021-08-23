@@ -1,0 +1,1350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dieselpartscanada.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dieselpartscanada.ca/collections/new-products.atom"/>
+  <title>Diesel Parts Canada</title>
+  <updated>2021-08-11T12:30:57-06:00</updated>
+  <author>
+    <name>Diesel Parts Canada</name>
+  </author>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6684500459602</id>
+    <published>2021-08-11T12:30:57-06:00</published>
+    <updated>2021-08-11T12:30:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/inlet-connector"/>
+    <title>Cummins QSB Inlet Connector</title>
+    <s:type></s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-Image-Not-Available_grande_965d42ae-3ba5-4d10-9ad9-9928e8f1c197.png?v=1628701281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fuel injector supply tube Cummins QSB</p>
+<p>Alternate numbers: 3975703, 1876292, and F00RJ01620</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Connector</s:tag>
+    <s:tag>Connector tube</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Inlet tube</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6684500459602</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>DPC-F00RJ01620</s:sku>
+      <s:grams>363</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6682318700626</id>
+    <published>2021-08-09T09:03:02-06:00</published>
+    <updated>2021-08-09T09:03:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/gm-duramax-2001-2004-6-6l-lb7-aftermarket-injector"/>
+    <title>GM Duramax 2001-2004 6.6L LB7 Aftermarket Pure Power Injector</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-0986435502-28-2_bbcd6d13-da10-42b9-8933-61b2d9e2a8b4.jpg?v=1628521224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>GMC Duramax 2001-2004 LB7 6.6L Aftermarket Pure Power Injector</p>
+<p>Built to OE specifications by Pure Power<br></p>
+<p><span>Your injector can be identified by the 8th digit of your VIN.</span></p>
+<p><span>This injector is for vehicles with the 8th digit 1.</span></p>
+<p><span>Alternate part numbers: 0 445 120 008, 0 986 435 502, 97208074, 97720604, and 97720661</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>LB7</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6682318700626</id>
+      <title>Core Charge / 175</title>
+      <s:price currency="CAD">429.00</s:price>
+      <s:sku>DPC-7830-PP</s:sku>
+      <s:grams>662</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6680176951378</id>
+    <published>2021-08-06T16:15:13-06:00</published>
+    <updated>2021-08-06T16:15:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/6-7l-qsb-cummins-common-rail-injector"/>
+    <title>6.7L QSB Cummins  Common Rail Injector</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-0_986_435_574-4_c28fbf43-3206-4a05-af46-0a523efd6dee.jpg?v=1628287887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            572.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>6.7L QSB Cummins  Common Rail Injector</p>
+<p> <span>All Bosch rebuilt injectors have all new internal components with only the bodies being reused. Bosch injectors use only genuine parts and are built to current OE specifications.</span></p>
+<p><span>Alternate part numbers: 0 445 120 059, 0 445 120 231, 0 986 435 597, 3976372, 4945969, and 5263262</span></p>
+<p><span style="font-size: xx-small;">Note:  This part may not be available for shipment in all regions.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.7L</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6680176951378</id>
+      <title>Core Charge / 75</title>
+      <s:price currency="CAD">572.00</s:price>
+      <s:sku>DPC-0986435597</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6602412064850</id>
+    <published>2021-05-26T13:23:10-06:00</published>
+    <updated>2021-05-26T13:23:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/factory-tested-john-deere-9-0-l-hpcr-remanufactured-common-rail-injector-1"/>
+    <title>Factory Tested John Deere 9.0 L HPCR Remanufactured Common Rail Injector</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/ap51800_01_02_03_e08b2557-2767-48d5-a403-076a14c49a3a.jpeg?v=1620765865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            375.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b> John Deere 9.0 L HPCR Remanufactured Common Rail Injector</b></p><p>Application: 6090</p><p>Notes: Packaged with its corresponding trim codes and includes the necessary components needed for installation.</p><p>OEM Reference: RE546776, RE528407, RE529149, SE501947,095000-6480</p><hr><p>Alliant Power Part Number: AP51800</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9.0L</s:tag>
+    <s:tag>fire-sale</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6602412064850</id>
+      <title>Core Charge / 125</title>
+      <s:price currency="CAD">375.00</s:price>
+      <s:sku>DPC-AP51900U</s:sku>
+      <s:grams>662</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6602407149650</id>
+    <published>2021-05-26T13:23:09-06:00</published>
+    <updated>2021-05-26T13:23:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/factory-tested-john-deere-8-1-l-hpcr-remanufactured-common-rail-injector"/>
+    <title>Factory Tested John Deere 8.1 L HPCR Remanufactured Common Rail Injector</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP52900-18_aa5d373f-f275-42b7-9024-6c5c7c4b9774.jpg?v=1620765794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            375.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b> John Deere 8.1 L HPCR Remanufactured Common Rail Injector</b></p><p>Application: 6081</p><p>Notes: Includes the necessary components needed for installation.</p><p>OEM Reference: RE524369, SE501941, 095000-0540</p><hr><p>Alliant Power Part Number: AP50804</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8.1L</s:tag>
+    <s:tag>fire-sale</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6602407149650</id>
+      <title>Core Charge / 125</title>
+      <s:price currency="CAD">375.00</s:price>
+      <s:sku>DPC-AP50904U</s:sku>
+      <s:grams>662</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6602401316946</id>
+    <published>2021-05-26T13:23:08-06:00</published>
+    <updated>2021-05-26T13:23:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/factory-tested-2004-navistar-dt466-2005-navistar-dt466-remanufactured-g2-9-injector"/>
+    <title>Factory Tested 2004 Navistar DT466, 2005 Navistar DT466 Remanufactured G2.9 Injector</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/ap66818_dac1910a-5b44-442d-b49d-3bb3352dc5cc.jpeg?v=1620765694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            475.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>2004 Navistar DT466 Remanufactured G2.9 Injector </b></p><p>Application: DT466: 245 HP to 285 HP (HT)</p><p>Notes: Installation requires removal of high-pressure oil rail. Use AP0025 High-Pressure Oil Rail Seal Kit when reinstalling oil rail.</p><p>ESN: 2,000,001 to 2,999,999</p><p><b>2005 Navistar DT466 Remanufactured G2.9 Injector </b></p><p>Application: DT466: 210 HP to 285 HP</p><p>Notes: Installation requires removal of high-pressure oil rail. Use AP0025 High-Pressure Oil Rail Seal Kit when reinstalling oil rail.</p><p>ESN: 2,000,001 to 2,999,999</p><hr><p>Alliant Power Part Number: AP66977</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire-sale</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6602401316946</id>
+      <title>Core Charge / 225</title>
+      <s:price currency="CAD">475.00</s:price>
+      <s:sku>DPC-AP66977U</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6602375331922</id>
+    <published>2021-05-26T13:23:07-06:00</published>
+    <updated>2021-05-26T13:23:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/factory-tested-1997-1999-navistar-dt466e-heui-injector"/>
+    <title>Factory Tested 1997-1999 Navistar DT466E HEUI Injector</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-7.3AA-6_0878739f-b2c7-423d-85d0-a3b67456778a.jpg?v=1620765294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            325.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>1997-1999 Navistar DT466E HEUI Injector</b></p>
+<p>Application: DT466E: 175 HP to 190 HP</p>
+<p><span>We are proud to offer the only brand new OE factory built injectors available in Canada. These injectors are manufactured with genuine parts to the current OE specifications by the original manufacturer and backed by a 1 year unlimited kilometer warranty.</span></p>
+<p>Notes: Includes copper chamber gasket.</p>
+<p>ESN: 1,028,711 to 1,194,038</p>
+<p>Alternate part numbers: AP63809BE, 1824839C94, 1829336C1, 1829837C2, 1829838C94, 1829839C93, 1829926C2, and 2593592C91</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fire-sale</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6602375331922</id>
+      <title>Core Charge / 125</title>
+      <s:price currency="CAD">325.00</s:price>
+      <s:sku>DPC-AP63809BEU</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6602365796434</id>
+    <published>2021-05-26T13:23:06-06:00</published>
+    <updated>2021-05-26T13:23:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/factory-tested-ford-powerstroke-7-3l-ae-heui-injector-for-1999-2003-e-and-f-series-2003-2003-navistar-t444e"/>
+    <title>Factory Tested Ford PowerStroke 7.3L AE HEUI Injector for 1999-2003 E and F Series, 2003-2003 Navistar T444E</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP63803AD-14_75c0ac61-5643-44a9-bb43-54dd93b89338.jpg?v=1620765140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div>Ford PowerStroke 7.3L AE HEUI® Injector  (engines built AFTER December 7, 1998)</div>
+<div></div>
+<div><span>We are proud to offer the only brand new OE factory built injectors available in Canada. These injectors are manufactured with genuine parts to the current OE specifications by the original manufacturer and backed by a 1 year unlimited kilometer warranty.</span></div>
+<div></div>
+<p>1999 - 2003 F-Series  ESN Range 661,896,812</p>
+<p>1999 - 2003 E-Series  ESN Range 661,896,812</p>
+<div>2002 - 2003 Navistar T444E  ESN Range 1,313,828 to 5,999,999</div>
+<div></div>
+<div></div>
+<div>Alternate part numbers: AP63804AE, F81Z9E527EARM, XC3Z9E527AARM, F61Z9VE527ERM, 5C3Z9VE527ARM, 1833639C1, 1833644C1, 1833644C1, 1833645C1, 1833646C92,  and 1833647C91</div>
+</div>
+<p><span size="1px" style="font-size: xx-small;">HEUI® is a registered trademark of Caterpillar, Inc.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>7.3L</s:tag>
+    <s:tag>fire-sale</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6602365796434</id>
+      <title>Core Charge / 125</title>
+      <s:price currency="CAD">300.00</s:price>
+      <s:sku>DPC-AP63804AEU</s:sku>
+      <s:grams>1411</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6601699524690</id>
+    <published>2021-05-26T13:23:04-06:00</published>
+    <updated>2021-05-26T13:23:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/factory-tested-john-deere-9-0-l-hpcr-remanufactured-common-rail-injector"/>
+    <title>Factory Tested John Deere 9.0 L HPCR Remanufactured Common Rail Injector</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/ap51800_01_02_03_7f44f376-2c6a-45c5-a2cc-f63571a570f5.jpeg?v=1620746933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            375.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b> John Deere 9.0 L HPCR Remanufactured Common Rail Injector</b></p><p>Application: 6090</p><p>Notes: Packaged with its corresponding trim codes and includes the necessary components needed for installation.</p><p>OEM Reference: RE546777, RE528408, RE529151, SE501948, 095000-6471</p><hr><p>Alliant Power Part Number: AP51802</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>9.0L</s:tag>
+    <s:tag>fire-sale</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6601699524690</id>
+      <title>Core Charge / 125</title>
+      <s:price currency="CAD">375.00</s:price>
+      <s:sku>DPC-AP51902U</s:sku>
+      <s:grams>662</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6601648537682</id>
+    <published>2021-05-26T13:23:04-06:00</published>
+    <updated>2021-05-26T13:23:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/factory-tested-john-deere-4-5-l-and-6-8-l-hpcr-remanufactured-common-rail-injector-1"/>
+    <title>Factory Tested John Deere 4.5 L and 6.8 L HPCR Remanufactured Common Rail Injector</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP52904-19_ae7971a5-3190-4c7b-aa53-fdb3b65fc9ec.jpg?v=1620745631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            375.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b> John Deere 4.5 L and 6.8 L HPCR Remanufactured Common Rail Injector</b></p><p>Application: 4045/6068</p><p>Notes: Packaged with its corresponding trim codes and includes the necessary components needed for installation.</p><p>OEM Reference: RE546782, RE529414, RE529117, SE501927, 095000-6500</p><hr><p>Alliant Power Part Number: AP52806</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4.5L</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>fire-sale</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6601648537682</id>
+      <title>Core Charge / 125</title>
+      <s:price currency="CAD">375.00</s:price>
+      <s:sku>DPC-AP52906U</s:sku>
+      <s:grams>662</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/6601638477906</id>
+    <published>2021-05-26T13:23:03-06:00</published>
+    <updated>2021-05-26T13:23:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/factory-tested-john-deere-4-5-l-and-6-8-l-hpcr-remanufactured-common-rail-injector"/>
+    <title>Factory Tested John Deere 4.5 L and 6.8 L HPCR Remanufactured Common Rail Injector</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP52904-17_f7484914-602f-44c2-893d-f830f6336252.jpg?v=1620745403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            375.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b> John Deere 4.5 L and 6.8 L HPCR Remanufactured Common Rail Injector</b></p><p>Application: 4045/6068</p><p>Notes: Packaged with its corresponding trim codes and includes the necessary components needed for installation.</p><p>OEM Reference: RE546781, RE524382, RE529118, SE501926, 095000-6490</p><hr><p>Alliant Power Part Number: AP52801</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4.5L</s:tag>
+    <s:tag>6.8L</s:tag>
+    <s:tag>fire-sale</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/6601638477906</id>
+      <title>Core Charge / 125</title>
+      <s:price currency="CAD">375.00</s:price>
+      <s:sku>DPC-AP52901U</s:sku>
+      <s:grams>662</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4941081804882</id>
+    <published>2021-01-26T07:59:35-07:00</published>
+    <updated>2021-01-26T07:59:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/urea-filter-2-2-denoxtronic"/>
+    <title>Bosch Urea Filter  2.2 Denoxtronic</title>
+    <s:type>Filters</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/Bosch-Urea-Diesel-Filter-1.png?v=1611606700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bosch Urea Filter  2.2 Denoxtronic</p>
+<p>Alternate part numbers: <span data-mce-fragment="1">02934690, 04601354, 04602317, 1457436033, 1457436088, 1847823, 1927474, 2014774, 21496419, 21496421, 21516229, 21516231, 21516516, 21673812, 2511460C1, 2880298, 2888182, 2934690, 3783187, 4601354, 4602317, 47364243, 5221516516, 5303604, 5801667204, 6392223, 6540-71-2320, 68087337AA, 68087337AB, 7421574991, 7485138439, 837079423, 847823PE, 8981694030, 98169403, A042T663, DZ114640, E103UD295, F00BH40301, F00BH40343, F835201110090, FH00BH40428877, K68087337AA, RE554498, SK17K0-E0011, U5001KIT, UF101, V837079423, and W74B191</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Filter</s:tag>
+    <s:tag>John Deere</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4941081804882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>DPC-1457436033</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888768020562</id>
+    <published>2020-11-25T10:24:11-07:00</published>
+    <updated>2020-11-25T10:24:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/gm-duramax-2006-6-6l-lbz-injector-complete-set"/>
+    <title>GM Duramax 2006 6.6L LBZ Injector (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-0986435504-8_dfe100b2-d737-4e98-8dc0-1ea5d22c852c.jpg?v=1606324992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            4880.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>(Complete Set)</strong></p>
+<p>GM Duramax 2006 LBZ 6.7L Injector </p>
+<p> <span>All Bosch rebuilt injectors have all new internal components with only the bodies being reused. Bosch injectors use only genuine parts and are built to current OE specifications.</span></p>
+<p><span>Your injector can be identified by the 8th digit of your VIN.</span></p>
+<p><span>This injector is for vehicles with the 8th digit D.</span></p>
+<p><span>Alternate part numbers: 0 445 120 042, 0 986 435 521, and 97361355</span></p>
+<p><span><strong>***Now covered under a 2 year manufacturer warranty.***</strong></span></p>
+<p><span style="font-size: xx-small;">Note:  This part may not be available for shipment in all regions.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888768020562</id>
+      <title>Core Charge / 800</title>
+      <s:price currency="CAD">4880.00</s:price>
+      <s:sku>DPC-0986435521-8</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888766316626</id>
+    <published>2020-11-25T10:20:27-07:00</published>
+    <updated>2020-11-25T10:20:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/gm-duramax-2001-2004-5-6-6l-lb7-high-performance-stage-1-injector-complete-set"/>
+    <title>GM Duramax 2001-2004.5 6.6L LB7 High Performance Stage 1 Injector (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/2S1-4_c9fcee7b-d962-42f0-9b4c-d1dda1d91654.jpg?v=1606324792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            6000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>(Complete Set)</strong></p>
+<p>GMC Duramax 2001-2004.5 LB7 6.6L High Performance Injector </p>
+<p><em>Where High Performance meets High Standards</em></p>
+<p>This injector can support up to 750 horsepower, and is a 25% horsepower gain at stock (in stage 1) or approximately a 60 horsepower increase! </p>
+<p>Note: High performance parts are meant for off-road use only.</p>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<ul>
+<li><span style="line-height: 1.4;">TDM tests and calibrates all injectors on OE test bench and tests through the full operating pressure range following the OEM fuel maps.</span></li>
+<li>
+<span style="line-height: 1.4;">They have developed a proprietary formulation or the internal adjustments and </span><span style="line-height: 1.4;">specifications that allows them to optimize </span><span style="line-height: 1.4;">performance not only at full load but throughout </span><span style="line-height: 1.4;">the fuel map. </span>
+</li>
+<li><span style="line-height: 1.4;">TDM operates the largest authorized OE clean room in North America where our OEM-trained techs build each injector by hand under the supervision of our in-house engineering team.</span></li>
+<li>
+<span style="line-height: 1.4;">Torque Diesel Motorsports (TDM) stands behind each of their injectors with the best warranty in the business </span><span style="line-height: 1.4;">providing coverage for 15 months/unlimited miles in conjunction with 90 days R&amp;R Labor.</span>
+</li>
+<li>
+<span style="line-height: 1.4;">Torque Diesel Motorsports combines our stringent standards, and exclusive use of new OE components </span><span style="line-height: 1.4;">to match ALL of their injectors to within 1.5% at full load delivery</span>
+</li>
+<li>
+<span style="line-height: 1.4;">Torque Diesel Motorsports has developed a superior performance injector based on the demands of today's Diesel performance customer.  Truly a blend of engineering and craftsmanship, TDM injectors provide the performance you want, </span><span style="line-height: 1.4;">the quality you expect, and the reliability you need.</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<p> </p>
+<p><strong>About Torque Diesel Motorsports</strong></p>
+<meta charset="utf-8">
+<section class="column column-1 grid-left-0 grid-width-17">
+<div id="block-b03568a24fb5afff" class="block block-type-content block-fluid-height" data-alias="Single: Content">
+<div class="block-content">
+<div class="loop">
+<article id="post-51" class="post-51 page type-page status-publish hentry author-torquediesel" itemscope="" itemtype="http://schema.org/CreativeWork">
+<div class="entry-content" itemprop="text">
+<p>Torque Diesel Motorsports goes through incredible lengths to produce the best performance injectors available in the market today. At Torque Diesel Motorsports our team of highly trained technicians has produced in excess of 50,000 injectors and builds each performance injector by hand. We start by completely disassembling each injector, the injector body then goes through a multi-stage ultrasonic cleaning process and all internal wear parts are discarded. Next, each body undergoes a strict internal inspection before being marked with a laser annealed serial and part number.</p>
+<p>Torque Diesel Motorsports currently operates the largest OE authorized clean room in North America where all of our injectors are built under the supervision of our in house engineering team. We have developed a proprietary formulation for the internal adjustments and specifications that allows us to optimize performance not only at full load but throughout the fuel map. Using strict guidelines set forth by the OE manufacturer, we replace every solenoid, valve set, spring, O-ring, control ball, ball sleeve, thrust piece, and shims with new genuine Bosch parts. In order to ensure long lasting quality and reliability, Torque Diesel Motorsports exclusively uses 100% new OE nozzles featuring the latest DGV (double guided valve) design.</p>
+<p>Torque Diesel Motorsports tests and calibrates all of our injectors exclusively on a OE – EPS 815 Common Rail test stand. Each injector is tested through the full operating pressure range following the fuel maps provided by the original equipment manufacturer to ensure reliable performance. Our testing also includes the proprietary shot to shot measurement at a minimum of five different test points. Shot to shot testing measures the output of each injection event during the testing sequence to ensure superior performance and repeatability. the OE team annually re-calibrates and re-certifies each of our three common rail test stands to ensure both the accuracy and consistency of our results. It is our combination of internal adjustments, exclusive use of new original equipment parts, and advanced manufacturing processes that allows us to provide an unmatched level of quality and performance.</p>
+<p><strong></strong>﻿</p>
+<div class="page" title="Page 2">
+<div class="layoutArea">
+<div class="column">
+<p> </p>
+</div>
+</div>
+</div>
+<p><strong>Warranty</strong></p>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p><span>LIMITED WARRANTY,WARRANTY DISCLAIMER,WAIVER OF IMPLIED WARRANTIES, LIMITATION OF LIABILITY, INDEMNITY, AND COMPLETE RELEASE AGREEMENT </span></p>
+<p><span>NOTICE: THIS IS A HIGH-PERFORMANCE INJECTOR PRODUCT; USE THIS PRODUCT AT YOUR OWN RISK. DO NOT USE THIS PRODUCT UNTIL YOU HAVE CAREFULLY READ THE FOLLOWING AGREEMENT. </span></p>
+<p><span>1. Limited Warranty. </span></p>
+<p><span>(a) Torque Diesel Motorsports injectors provide limited warranty as to description, quality,and performance of the Product from the manufacturer limited to a period of 15 months from the date of purchase to the original purchaser (the"Customer") of the Product, which warranty does not include Product damage caused by outside influences, including but not limited to: improper installation, foreign object damage, contamination, or misuse. </span></p>
+<p><span>(b) The Seller assumes no liability regarding the improper misapplication of the Product and Services. Customer and any installer assume responsibility for proper installation. </span></p>
+<p><span>2. Disclaimer of Warranties. Except for the Limited Warranty set forth in Section 1(a) Seller disclaims all warranties, express and implied, with respect to fitness for a particular purpose or merchantability, and further disclaims any liability for personal injury or damages. </span></p>
+<p><span>3. Customer Covenants. </span></p>
+<p><span>(a) Customer acknowledges and agrees that(1) performance injector products are designed for off-road and competition use only; (2)use on a federal or state highway is a violation of the Federal Clean Air Act, (3) Customer has not relied upon the skill or judgment of Manufacturer or its dealers, agents, or suppliers to select the Product,or to determine if the Product is suitable for the Customer's particular purpose. </span></p>
+<p><span>(b) Customer acknowledges and agrees that the disclaimer of warranties isa material term of this Agreement. </span></p>
+<p><span>(c) Customer acknowledges and agrees to the limited warranty, the lack of reliance on Seller, the disclaimer of warranties, the assumption of liability by Customer, the agreement of indemnity, that the use of the Product may void the vehicle manufacturer's warranty and use on any state or federal highway could result in a fine or other penalty, and agrees to a complete release of Manufacturer and Seller. </span></p>
+<p><span>CUSTOMER ACKNOWLEDGES THAT HE OR SHE OR IT HAS BEEN INFORMED OF THE RISKS AND THE POTENTIAL RISKS OF USE AND OPERATING THIS PRODUCT, AND BY THIS AGREEMENT WAIVES ANY RIGHT TO ASSERT ANY CLAIM AGAINST MANUFACTURER OR SELLER, WHETHER FOR BREACH OF CONTRACT, TORT, NEGLIGENCE, OR OTHERWISE,EXCEPT AS PRESCRIBED IN THIS AGREEMENT,AND IN THE EVENT OF RESALE OF OR TRANSFER BY THE CUSTOMER OF SUCH PERFORMANCE INJECTORS, MANUFACTURER OFFERS NO WARRANTIES, EXPRESS OR IMPLIED.</span></p>
+<p> Replaces stock injector part numbers: 0 986 435 502, 0 445 120 008, 97208074, and 12620535</p>
+<p> </p>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.6L</s:tag>
+    <s:tag>Chevy</s:tag>
+    <s:tag>Duramax</s:tag>
+    <s:tag>GM</s:tag>
+    <s:tag>GMC</s:tag>
+    <s:tag>LB7</s:tag>
+    <s:tag>Performance</s:tag>
+    <s:tag>Torque Diesel Motorsports</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888766316626</id>
+      <title>Core Charge / 1600</title>
+      <s:price currency="CAD">6000.00</s:price>
+      <s:sku>DPC-TDM02S1-8</s:sku>
+      <s:grams>662</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888763990098</id>
+    <published>2020-11-25T10:16:25-07:00</published>
+    <updated>2020-11-25T10:16:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/ford-powerstroke-6-0l-oe-injector-for-engines-built-on-or-after-9-22-2003-complete-set"/>
+    <title>Ford PowerStroke 6.0L OE Injector for engines built on or after 9/22/2003 (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP60901-18_521541bc-b08d-4400-a063-3369cd02a670.jpg?v=1606324530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            3480.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>(Complete Set)</strong></div>
+<div><strong></strong></div>
+<div>
+<meta charset="utf-8">
+<div>Ford PowerStroke 6.0L OE Injector for engines built on or after 9/22/2003</div>
+<div></div>
+<div>These OE remanufactured injectors are covered by a 24 month unlimited kilometre warranty on all Ford applications. Every injector is rebuilt to OE specifications using new coil and harness assemblies and new spool valves design to eliminate stiction. </div>
+</div>
+<p> </p>
+<p><span color="#ff0000" style="color: #ff0000;">NOTE:</span> See specific applications below to make sure they match your vehicle.</p>
+<p><strong>***Now covered under a 2 year manufacturer warranty.***</strong> </p>
+<p>OEM Part Numbers: 4C3Z9E527AA / BRM</p>
+<p>Notes: Engines built ON OR AFTER 9/22/2003</p>
+<div></div>
+Applications:
+<p>9/22/2003-2007 F-250 / F-550, Excursion</p>
+<p>2005-2007 F-650 / F-750</p>
+<p>2004-2010 E Series</p>
+<p>2006-2010 4.5L LCF </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.0L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888763990098</id>
+      <title>Core Charge / 1400</title>
+      <s:price currency="CAD">3480.00</s:price>
+      <s:sku>DPC-AP60901-8</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888761401426</id>
+    <published>2020-11-25T10:13:50-07:00</published>
+    <updated>2020-11-25T10:13:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/ford-powerstroke-6-0l-oe-injector-for-engines-built-before-9-22-2003-complete-set"/>
+    <title>Ford PowerStroke 6.0L OE Injector for engines built before 9/22/2003 (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP60900-17_5f80b13a-29f6-411c-9c59-d7f49cf3a36d.jpg?v=1606324386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            3480.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<div><strong>(Complete Set)</strong></div>
+<div>Ford PowerStroke 6.0L Alliant Power Injector for engines built before 9/22/2003</div>
+<p> </p>
+<p><span>These OE remanufactured injectors are covered by a 24 month unlimited kilometre warranty on all Ford applications. Every injector is rebuilt to OE specifications using new coil and harness assemblies and new spool valves design to eliminate stiction. </span></p>
+</div>
+<p> </p>
+<p><span color="#ff0000" style="color: #ff0000;">NOTE:</span> See specific applications below to make sure they match your vehicle.</p>
+<p> <strong>***Now covered under a 2 year manufacturer warranty.***</strong></p>
+<div>OEM Part Numbers: 3C3Z9E527E / BRM</div>
+<p>Notes: Engines built BEFORE 9/22/2003</p>
+<div></div>
+Applications:
+<p>2003-9/21/2003  F-250 / F-550, EXCURSION   ESN 0 to 137,745 (Alabama built)</p>
+<div>
+<p>2003-9/21/2003  F-250 / F-550, EXCURSION   ESN 6,000,000 to 6,155,636 (Indiana built)</p>
+<div>
+<p>2003-9/21/2003  F-650 / F-750, EXCURSION   ESN 0 to 112,360 (Alabama built)</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.0L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>Navistar</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888761401426</id>
+      <title>Core Charge / 1400</title>
+      <s:price currency="CAD">3480.00</s:price>
+      <s:sku>DPC-AP60900-8</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888760025170</id>
+    <published>2020-11-25T10:12:37-07:00</published>
+    <updated>2020-11-25T10:12:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/ford-powerstroke-2008-2010-6-4l-oe-injector-and-line-kit-complete-set"/>
+    <title>Ford PowerStroke 2008-2010 6.4L OE Injector and Line Kit (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-AP64900-13_b3cecbd7-8974-48b8-96c5-a0e7c728a70f.jpg?v=1606324311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            4672.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 14px;">(Complete Set)</span></p>
+<p><span style="font-size: 14px;">Ford PowerStroke 2008-2010 F Series 6.4L Common Rail OE Injector with injection line supplied by Alliant Power.</span></p>
+<p>OE Number: 8C3Z9E527A </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.4L</s:tag>
+    <s:tag>Ford</s:tag>
+    <s:tag>PowerStroke</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888760025170</id>
+      <title>Core Charge / 1800</title>
+      <s:price currency="CAD">4672.00</s:price>
+      <s:sku>DPC-AP64900-8</s:sku>
+      <s:grams>662</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888755142738</id>
+    <published>2020-11-25T10:09:57-07:00</published>
+    <updated>2020-11-25T10:09:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/dodge-cummins-2013-2018-6-7l-injector-for-cab-chassis-complete-set"/>
+    <title>Dodge Cummins 2013-2018 6.7L Injector for Cab Chassis (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-0986435573-13_c314b6ea-2c53-411b-9f93-98b58dea9c2a.jpg?v=1606324136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            4710.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>(Complete Set)</p>
+<p>Dodge Cummins 2013-2018 6.7L Common Rail Injector for <strong>Cab Chassis  (Selective Catalytic Reduction) or Urea Blue Filler Cap tank</strong></p>
+<p>New Inlet tubes should be installed with new injectors.</p>
+<p> <span>All Bosch rebuilt injectors have all new internal components with only the bodies being reused. Bosch injectors use only genuine parts and are built to current OE specifications.</span></p>
+<p><span>Alternate part numbers: F 00E 200 419, 0 986 435 573, 5256034, and 4983514</span></p>
+<p><span style="font-size: xx-small;">Note:  This part may not be available for shipment in all regions.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.7L</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888755142738</id>
+      <title>Core Charge / 660</title>
+      <s:price currency="CAD">4710.00</s:price>
+      <s:sku>DPC-0986435573-6</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888744591442</id>
+    <published>2020-11-25T10:01:38-07:00</published>
+    <updated>2020-11-25T10:01:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/cummins-2011-2013-6-7l-injector-for-cab-chassis-with-scr-complete-set"/>
+    <title>Cummins 2011-2013 6.7L Injector for Cab Chassis with SCR (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-0_986_435_574-4_53a4c837-1d18-4883-add1-24c65f20bfc1.jpg?v=1606323528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            7350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>(Complete Set)</strong></p>
+<p>Dodge Cummins 2011-2013 6.7L Common Rail Injector for <strong>Cab Chassis with SCR (Selective Catalytic Reduction) or Urea Blue Filler Cap tank</strong></p>
+<p>New Inlet tubes should be installed with new injectors.</p>
+<p> <span>All Bosch rebuilt injectors have all new internal components with only the bodies being reused. Bosch injectors use only genuine parts and are built to current OE specifications.</span></p>
+<p><span>Alternate part numbers: 0 445 120 188, 0 986 435 574, 4994928, and 68210512AA</span></p>
+<p><span style="font-size: xx-small;">Note:  This part may not be available for shipment in all regions.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.7L</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888744591442</id>
+      <title>Core Charge / 960</title>
+      <s:price currency="CAD">7350.00</s:price>
+      <s:sku>DPC-0986435574-6</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888740102226</id>
+    <published>2020-11-25T09:54:19-07:00</published>
+    <updated>2020-11-25T09:54:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/dodge-cummins-2007-2012-6-7l-injector-for-ram-pickup-complete-set"/>
+    <title>Dodge Cummins 2007-2012 6.7L Injector for Ram Pickup (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-0986435519-12_b15f631a-1e9b-4ac8-a8d8-fa29dc8924a4.jpg?v=1606323212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            3876.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>(Complete Set)</strong></p>
+<p>Dodge Cummins 2007-2012 6.7L Common Rail Injector for <strong>Ram Pickup</strong></p>
+<p> </p>
+<p>New Inlet tubes should be installed with new injectors.</p>
+<p> <span>All Bosch rebuilt injectors have all new internal components with only the bodies being reused. Bosch injectors use only genuine parts and are built to current OE specifications.</span></p>
+<p><span>Alternate part numbers: 0 445 120 193, 0 986 435 518, and 5253220</span></p>
+<p><span><strong>***Now covered under a 2 year manufacturer warranty.***</strong></span></p>
+<p><span>Note:  This part may not be available for shipment in all regions.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.7L</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888740102226</id>
+      <title>Core Charge / 660</title>
+      <s:price currency="CAD">3876.00</s:price>
+      <s:sku>DPC-0986435518-6</s:sku>
+      <s:grams>612</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888734662738</id>
+    <published>2020-11-25T09:50:23-07:00</published>
+    <updated>2020-11-25T09:50:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/dodge-cummins-2007-2012-6-7l-high-performance-stage-1-injector-complete-set"/>
+    <title>Dodge Cummins 2007-2012 6.7L High Performance Stage 1 Injector (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/8S1-16_4927512b-3df8-4a10-be17-4588dcf1108b.jpg?v=1606322987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            5100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="color: #000000;">(Complete Set)</span></strong></p>
+<p>Dodge Cummins 2007-2012 6.7L High Performance Stage 1 Injector</p>
+<p><em>Where High Performance meets High Standards</em></p>
+<p>This injector can support up to 750 horsepower, and is a 25% horsepower gain at stock (in stage 1) or approximately a 60 horsepower increase! </p>
+<p>Note: High performance parts are meant for off-road use only.</p>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<ul>
+<li><span style="line-height: 1.4;">TDM tests and calibrates all injectors on OE test bench and tests through the full operating pressure range following the OEM fuel maps.</span></li>
+<li>
+<span style="line-height: 1.4;">They have developed a proprietary formulation or the internal adjustments and </span><span style="line-height: 1.4;">specifications that allows them to optimize </span><span style="line-height: 1.4;">performance not only at full load but throughout </span><span style="line-height: 1.4;">the fuel map. </span>
+</li>
+<li><span style="line-height: 1.4;">TDM operates the largest authorized OE clean room in North America where our OEM-trained techs build each injector by hand under the supervision of our in-house engineering team.</span></li>
+<li>
+<span style="line-height: 1.4;">Torque Diesel Motorsports (TDM) stands behind each of their injectors with the best warranty in the business </span><span style="line-height: 1.4;">providing coverage for 15 months/unlimited miles in conjunction with 90 days R&amp;R Labor.</span>
+</li>
+<li>
+<span style="line-height: 1.4;">Torque Diesel Motorsports combines our stringent standards, and exclusive use of new OE components </span><span style="line-height: 1.4;">to match ALL of their injectors to within 1.5% at full load delivery</span>
+</li>
+<li>
+<span style="line-height: 1.4;">Torque Diesel Motorsports has developed a superior performance injector based on the demands of today's Diesel performance customer.  Truly a blend of engineering and craftsmanship, TDM injectors provide the performance you want, </span><span style="line-height: 1.4;">the quality you expect, and the reliability you need.</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<p> </p>
+<p><strong>About Torque Diesel Motorsports</strong></p>
+<meta charset="utf-8">
+<section class="column column-1 grid-left-0 grid-width-17">
+<div id="block-b03568a24fb5afff" class="block block-type-content block-fluid-height" data-alias="Single: Content">
+<div class="block-content">
+<div class="loop">
+<article id="post-51" class="post-51 page type-page status-publish hentry author-torquediesel" itemscope="" itemtype="http://schema.org/CreativeWork">
+<div class="entry-content" itemprop="text">
+<p>Torque Diesel Motorsports goes through incredible lengths to produce the best performance injectors available in the market today. At Torque Diesel Motorsports our team of highly trained technicians has produced in excess of 50,000 injectors and builds each performance injector by hand. We start by completely disassembling each injector, the injector body then goes through a multi-stage ultrasonic cleaning process and all internal wear parts are discarded. Next, each body undergoes a strict internal inspection before being marked with a laser annealed serial and part number.</p>
+<p>Torque Diesel Motorsports currently operates the largest OE authorized clean room in North America where all of our injectors are built under the supervision of our in house engineering team. We have developed a proprietary formulation for the internal adjustments and specifications that allows us to optimize performance not only at full load but throughout the fuel map. Using strict guidelines set forth by the OE manufacturer, we replace every solenoid, valve set, spring, O-ring, control ball, ball sleeve, thrust piece, and shims with new genuine Bosch parts. In order to ensure long lasting quality and reliability, Torque Diesel Motorsports exclusively uses 100% new OE nozzles featuring the latest DGV (double guided valve) design.</p>
+<p>Torque Diesel Motorsports tests and calibrates all of our injectors exclusively on a OE – EPS 815 Common Rail test stand. Each injector is tested through the full operating pressure range following the fuel maps provided by the original equipment manufacturer to ensure reliable performance. Our testing also includes the proprietary shot to shot measurement at a minimum of five different test points. Shot to shot testing measures the output of each injection event during the testing sequence to ensure superior performance and repeatability. the OE team annually re-calibrates and re-certifies each of our three common rail test stands to ensure both the accuracy and consistency of our results. It is our combination of internal adjustments, exclusive use of new original equipment parts, and advanced manufacturing processes that allows us to provide an unmatched level of quality and performance.</p>
+<p><strong></strong>﻿</p>
+<p class="p1"><b>Installation Guide Cummins 6.7 Dodge 2007-2012</b></p>
+<ol class="ol1">
+<li class="li1">Thoroughly clean injector cylinder head bore. Blow out bore hole with compressed air.</li>
+<li class="li1">Lubricate the injector O-ring and cylinder head bore with clean engine oil.</li>
+<li class="li1">Place injector into bore with mounting flange positioned toward the rocker levers and the fuel inlet hole facing the intake side of the engine. Push down on flange to engage O-ring and seat injector.</li>
+<li class="li1">Tip: Use the plastic solenoid cap to prevent breaking the solenoid terminals when inserting the injector into the bore</li>
+<li class="li1">Install mounting flange bolts.Make sure flange is perpendicular to injector body.  Tighten to 5 Nm (44 in. lbs.)</li>
+<li class="li1">Relieve flange bolt torque, but leave both bolts threaded in place.  It is HIGHLY RECOMMENDED to replace the high pressure fuel connector with each new injector. Evidence of fuel connector contamination may not be visible.</li>
+<li class="li1">Install high-pressure connector and retaining nut.  Tighten to 15 Nm (11 ft, lbs.)</li>
+<li class="li1">Tighten the injector flange bolts making sure to tighten the flange bolts evenly. Check that the gap between the flange and the injector is equally spaced around the injector body.  Tighten finger-tight and alternate between bolts turning 90 degrees per turn until reaching: 10 Nm (89 in. lbs.)</li>
+<li class="li1">Do final tightening of high-pressure fuel connector retaining nut. Tighten to 50 Nm (37 ft. lbs.)</li>
+<li class="li1">Connect and injector solenoid wires. Be sure the solenoid wires can NOT make contact with the rocker levers when installed.  Tighten to 1.25 Nm (11 in. lbs.)</li>
+</ol>
+<ol class="ol1"></ol>
+<p class="p2"> </p>
+<p><strong>Warranty</strong></p>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p><span>LIMITED WARRANTY,WARRANTY DISCLAIMER,WAIVER OF IMPLIED WARRANTIES, LIMITATION OF LIABILITY, INDEMNITY, AND COMPLETE RELEASE AGREEMENT </span></p>
+<p><span>NOTICE: THIS IS A HIGH-PERFORMANCE INJECTOR PRODUCT; USE THIS PRODUCT AT YOUR OWN RISK. DO NOT USE THIS PRODUCT UNTIL YOU HAVE CAREFULLY READ THE FOLLOWING AGREEMENT. </span></p>
+<p><span>1. Limited Warranty. </span></p>
+<p><span>(a) Torque DieselMotorsports injectors provide limited warranty as to description, quality,and performance of theProduct from the manufacturer limited to a period of 15 months from the date of purchase to the original purchaser (the"Customer") of the Product, which warranty does not includeProduct damage caused by outside influences, including but not limited to: improper installation, foreign object damage, contamination, or misuse. </span></p>
+<p><span>(b) The Seller assumes no liability regarding the improper misapplication of the Product and Services. Customer and any installer assume responsibility for proper installation. </span></p>
+<p><span>2. Disclaimer of Warranties. Except for the Limited Warranty set forth in Section1(a) Seller disclaims all warranties, express and implied, with respect to fitness for a particular purpose or merchantability, and further disclaims any liability for personal injury or damages. </span></p>
+<p><span>3. Customer Covenants. </span></p>
+<p><span>(a) Customer acknowledges and agrees that(1) performance injector products are designed for off-road and competition use only; (2)use on a federal or state highway is a violation of theFederal CleanAir Act, (3) Customer has not relied upon the skill or judgment of Manufacturer or its dealers, agents, or suppliers to select the Product,or to determine if theProduct is suitable for the Customer's particular purpose. </span></p>
+<p><span>(b) Customer acknowledges and agrees that the disclaimer of warranties isa material term of this Agreement. </span></p>
+<p><span>(c) Customer acknowledges and agrees to the limited warranty, the lack of reliance on Seller, the disclaimer of warranties, the assumption of liability byCustomer, the agreement of indemnity, that the use of the Product may void the vehicle manufacturer's warranty and use on any state or federal highway could result in a fine or other penalty, and agrees to a complete release of Manufacturer and Seller. </span></p>
+<p><span>CUSTOMER ACKNOWLEDGES THAT HE OR SHE OR IT HAS BEEN INFORMED OF THE RISKS AND THE POTENTIAL RISKS OF USE AND OPERATING THIS PRODUCT, AND BY THIS AGREEMENT WAIVES ANY RIGHT TO ASSERT ANY CLAIM AGAINST MANUFACTURER OR SELLER, WHETHER FOR BREACH OF CONTRACT, TORT, NEGLIGENCE, OR OTHERWISE,EXCEPT AS PRESCRIBED IN THIS AGREEMENT,AND INTHE EVENT OF RESALE OF OR TRANSFER BY THE CUSTOMER OF SUCH PERFORMANCE INJECTORS, MANUFACTURER OFFERS NO WARRANTIES, EXPRESS OR IMPLIED.</span></p>
+<p> </p>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.7L</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Performance</s:tag>
+    <s:tag>Torque Diesel Motorsports</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888734662738</id>
+      <title>Core Charge / 1200</title>
+      <s:price currency="CAD">5100.00</s:price>
+      <s:sku>DPC-TDM18S1-6</s:sku>
+      <s:grams>662</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888729354322</id>
+    <published>2020-11-25T09:48:39-07:00</published>
+    <updated>2020-11-25T09:48:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/dodge-cummins-2007-2010-6-7l-injector-for-cab-chassis-complete-set"/>
+    <title>Dodge Cummins 2007-2010 6.7L Injector for Cab Chassis (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-0986435519-16_4a9bc57c-50f2-453d-bf3e-57b1e926190a.jpg?v=1606322851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            3654.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="color: #000000;">(Complete Set)</span></strong></p>
+<p>Dodge Cummins 2007-2010 6.7L Common Rail Injector for <strong>Cab Chassis</strong></p>
+<p>New Inlet tubes should be installed with new injectors.</p>
+<p> <span>All Bosch rebuilt injectors have all new internal components with only the bodies being reused. Bosch injectors use only genuine parts and are built to current OE specifications.</span></p>
+<p><span>Alternate part numbers: 0 445 120 204, 0 986 435 519, and 5253221</span></p>
+<p><span><strong>***Now covered under a 2 year manufacturer warranty.***</strong></span></p>
+<p><span style="font-size: xx-small;">Note:  This part may not be available for shipment in all regions.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.7L</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888729354322</id>
+      <title>Core Charge / 660</title>
+      <s:price currency="CAD">3654.00</s:price>
+      <s:sku>DPC-0986435519-6</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888712904786</id>
+    <published>2020-11-25T09:42:10-07:00</published>
+    <updated>2020-11-25T09:42:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/cummins-2007-2010-6-7l-injector-for-cab-chassis-complete-set"/>
+    <title>Cummins 2007-2010 6.7L Injector for Cab Chassis (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-0986435519-16_f8b7fa2d-c17a-44c2-a2ba-4555a43598e3.jpg?v=1606322458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            3360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="color: #000000;">(Complete Set)</span></strong></p>
+<p>Dodge Cummins 2007-2010 6.7L Common Rail Injector for <strong>Cab Chassis</strong></p>
+<p>New Inlet tubes should be installed with new injectors.</p>
+<p> <span>All Bosch rebuilt injectors have all new internal components with only the bodies being reused. Bosch injectors use only genuine parts and are built to current OE specifications.</span></p>
+<p><span>Alternate part numbers: 0 445 120 204, 0 986 435 519, and 5253221</span></p>
+<p><span><strong>***Now covered under a 2 year manufacturer warranty.***</strong></span></p>
+<p><span style="font-size: xx-small;">Note:  This part may not be available for shipment in all regions.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6.7L</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888712904786</id>
+      <title>Core Charge / 660</title>
+      <s:price currency="CAD">3360.00</s:price>
+      <s:sku>DPC-0986435519-6</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888705335378</id>
+    <published>2020-11-25T09:38:39-07:00</published>
+    <updated>2020-11-25T09:38:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/dodge-cummins-2005-2007-5-9l-injector-complete-set"/>
+    <title>Dodge Cummins 2005-2007 5.9L Injector (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/DPC-0986435505-16_9654d748-6615-4673-89de-21c40e97b065.jpg?v=1606322265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            3228.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong><span style="color: #000000;">(Complete Set)</span></strong></div>
+<div><strong></strong></div>
+<div>Dodge Cummins 2005-2007 5.9L Injector</div>
+<p>New Inlet tubes should be installed with new injectors.</p>
+<p> <span>All Bosch rebuilt injectors have all new internal components with only the bodies being reused. Bosch injectors use only genuine parts and are built to current OE specifications.</span></p>
+<p><span>Alternate part numbers: 0 445 120 238, 0 986 435 505, 5263316, 5135790AD, and 5263316</span></p>
+<p><span><strong>***Now covered under a 2 year manufacturer warranty.***</strong></span></p>
+<p><span style="font-size: xx-small;">Note:  This part may not be available for shipment in all regions.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5.9L</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888705335378</id>
+      <title>Core Charge / 660</title>
+      <s:price currency="CAD">3228.00</s:price>
+      <s:sku>DPC-0986435505-6</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dieselpartscanada.ca/products/4888639963218</id>
+    <published>2020-11-25T09:16:13-07:00</published>
+    <updated>2020-11-25T09:16:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://dieselpartscanada.ca/products/dodge-cummins-2004-5-2007-5-9l-high-performance-stage-1-injector-complete-set"/>
+    <title>Dodge Cummins 2004.5-2007 5.9L High Performance Stage 1 Injector (Complete Set)</title>
+    <s:type>Injectors</s:type>
+    <s:vendor>Diesel Parts Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0190/6348/products/5S1-17_b49a0cb8-bfaa-4172-935c-bea0b8c1054d.jpg?v=1606320932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diesel Parts Canada<br>
+        <strong>Type: </strong>Injectors<br>
+        <strong>Price: </strong>
+            4860.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="color: #000000;">(Complete Set)</span></strong></p>
+<p>Dodge Cummins 2004.5-2007 5.9L High Performance Stage 1 Injector</p>
+<p><em>Where High Performance meets High Standards</em></p>
+<p>This injector can support up to 750 horsepower, and is a 25% horsepower gain at stock (in stage 1) or approximately a 60 horsepower increase! </p>
+<p>Note: High performance parts are meant for off-road use only.</p>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<ul>
+<li><span style="line-height: 1.4;">TDM tests and calibrates all injectors on OE test bench and tests through the full operating pressure range following the OEM fuel maps.</span></li>
+<li>
+<span style="line-height: 1.4;">They have developed a proprietary formulation or the internal adjustments and </span><span style="line-height: 1.4;">specifications that allows them to optimize </span><span style="line-height: 1.4;">performance not only at full load but throughout </span><span style="line-height: 1.4;">the fuel map. </span>
+</li>
+<li><span style="line-height: 1.4;">TDM operates the largest authorized OE clean room in North America where our OEM-trained techs build each injector by hand under the supervision of our in-house engineering team.</span></li>
+<li>
+<span style="line-height: 1.4;">Torque Diesel Motorsports (TDM) stands behind each of their injectors with the best warranty in the business </span><span style="line-height: 1.4;">providing coverage for 15 months/unlimited miles in conjunction with 90 days R&amp;R Labor.</span>
+</li>
+<li>
+<span style="line-height: 1.4;">Torque Diesel Motorsports combines our stringent standards, and exclusive use of new OE components </span><span style="line-height: 1.4;">to match ALL of their injectors to within 1.5% at full load delivery</span>
+</li>
+<li>
+<span style="line-height: 1.4;">Torque Diesel Motorsports has developed a superior performance injector based on the demands of today's Diesel performance customer.  Truly a blend of engineering and craftsmanship, TDM injectors provide the performance you want, </span><span style="line-height: 1.4;">the quality you expect, and the reliability you need.</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<p> </p>
+<p><strong>About Torque Diesel Motorsports</strong></p>
+<meta charset="utf-8">
+<section class="column column-1 grid-left-0 grid-width-17">
+<div id="block-b03568a24fb5afff" class="block block-type-content block-fluid-height" data-alias="Single: Content">
+<div class="block-content">
+<div class="loop">
+<article id="post-51" class="post-51 page type-page status-publish hentry author-torquediesel" itemscope="" itemtype="http://schema.org/CreativeWork">
+<div class="entry-content" itemprop="text">
+<p>Torque Diesel Motorsports goes through incredible lengths to produce the best performance injectors available in the market today. At Torque Diesel Motorsports our team of highly trained technicians has produced in excess of 50,000 injectors and builds each performance injector by hand. We start by completely disassembling each injector, the injector body then goes through a multi-stage ultrasonic cleaning process and all internal wear parts are discarded. Next, each body undergoes a strict internal inspection before being marked with a laser annealed serial and part number.</p>
+<p>Torque Diesel Motorsports currently operates the largest OE authorized clean room in North America where all of our injectors are built under the supervision of our in house engineering team. We have developed a proprietary formulation for the internal adjustments and specifications that allows us to optimize performance not only at full load but throughout the fuel map. Using strict guidelines set forth by the OE manufacturer, we replace every solenoid, valve set, spring, O-ring, control ball, ball sleeve, thrust piece, and shims with new genuine Bosch parts. In order to ensure long lasting quality and reliability, Torque Diesel Motorsports exclusively uses 100% new OE nozzles featuring the latest DGV (double guided valve) design.</p>
+<p>Torque Diesel Motorsports tests and calibrates all of our injectors exclusively on a OE – EPS 815 Common Rail test stand. Each injector is tested through the full operating pressure range following the fuel maps provided by the original equipment manufacturer to ensure reliable performance. Our testing also includes the proprietary shot to shot measurement at a minimum of five different test points. Shot to shot testing measures the output of each injection event during the testing sequence to ensure superior performance and repeatability. the OE team annually re-calibrates and re-certifies each of our three common rail test stands to ensure both the accuracy and consistency of our results. It is our combination of internal adjustments, exclusive use of new original equipment parts, and advanced manufacturing processes that allows us to provide an unmatched level of quality and performance.</p>
+<p><strong></strong>﻿</p>
+<p class="p1"><b>Installation Guide Cummins 5.9 Dodge 2003-2007 </b></p>
+<ol class="ol1">
+<li class="li1">Thoroughly clean injector cylinder head bore. Blow out bore hole with compressed air.</li>
+<li class="li1">Lubricate the injector O-ring and cylinder head bore with clean engine oil.</li>
+<li class="li1">Place injector into bore with mounting flange positioned toward the rocker levers and the fuel inlet hole facing the intake side of the engine. Push down on flange to engage O-ring and seat injector. Tip: Use the plastic solenoid cap to prevent breaking the solenoid terminals when inserting the injector into the bore</li>
+<li class="li1">Install mounting flange bolts. Make sure flange is perpendicular to injector body. Tighten to 5 Nm (44 in. lbs.)</li>
+<li class="li1">Relieve flange bolt torque, but leave both bolts threaded in place.<span class="Apple-converted-space">  </span>It is HIGHLY RECOMMENDED to replace the high pressure fuel connector with each new injector. Evidence of fuel connector contamination may not be visible.</li>
+<li class="li1">Install high-pressure connector and retaining nut.<span class="Apple-converted-space">  </span>Tighten to 15 Nm (11 ft lbs.)</li>
+<li class="li1">Tighten the injector flange bolts making sure to tighten the flange bolts evenly. Check that the gap between the flange and the injector is equally spaced around the injector body.<span class="Apple-converted-space">  </span>Tighten finger-tight and alternate between bolts turning 90 degrees per turn until reaching: 10 Nm (89 in. lbs.)</li>
+<li class="li1">Do final tightening of high-pressure fuel connector retaining nut. Tighten to 50Nm(37 ft lbs.)</li>
+<li class="li1">Connect and injector solenoid wires. Be sure the solenoid wires can NOT make contact with<span class="Apple-converted-space">  </span>the rocker levers when installed.<span class="Apple-converted-space">  </span>Tighten to 1.25 Nm (11 in. lbs.)</li>
+</ol>
+<p class="p2"> </p>
+<p><strong>Warranty</strong></p>
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p><span>LIMITED WARRANTY,WARRANTY DISCLAIMER,WAIVER OF IMPLIED WARRANTIES, LIMITATION OF LIABILITY, INDEMNITY, AND COMPLETE RELEASE AGREEMENT </span></p>
+<p><span>NOTICE: THIS IS A HIGH-PERFORMANCE INJECTOR PRODUCT; USE THIS PRODUCT AT YOUR OWN RISK. DO NOT USE THIS PRODUCT UNTIL YOU HAVE CAREFULLY READ THE FOLLOWING AGREEMENT. </span></p>
+<p><span>1. Limited Warranty. </span></p>
+<p><span>(a) Torque DieselMotorsports injectors provide limited warranty as to description, quality,and performance of theProduct from the manufacturer limited to a period of 15 months from the date of purchase to the original purchaser (the"Customer") of the Product, which warranty does not includeProduct damage caused by outside influences, including but not limited to: improper installation, foreign object damage, contamination, or misuse. </span></p>
+<p><span>(b) The Seller assumes no liability regarding the improper misapplication of the Product and Services. Customer and any installer assume responsibility for proper installation. </span></p>
+<p><span>2. Disclaimer of Warranties. Except for the Limited Warranty set forth in Section1(a) Seller disclaims all warranties, express and implied, with respect to fitness for a particular purpose or merchantability, and further disclaims any liability for personal injury or damages. </span></p>
+<p><span>3. Customer Covenants. </span></p>
+<p><span>(a) Customer acknowledges and agrees that(1) performance injector products are designed for off-road and competition use only; (2)use on a federal or state highway is a violation of theFederal CleanAir Act, (3) Customer has not relied upon the skill or judgment of Manufacturer or its dealers, agents, or suppliers to select the Product,or to determine if the Product is suitable for the Customer's particular purpose. </span></p>
+<p><span>(b) Customer acknowledges and agrees that the disclaimer of warranties isa material term of this Agreement. </span></p>
+<p><span>(c) Customer acknowledges and agrees to the limited warranty, the lack of reliance on Seller, the disclaimer of warranties, the assumption of liability by Customer, the agreement of indemnity, that the use of the Product may void the vehicle manufacturer's warranty and use on any state or federal highway could result in a fine or other penalty, and agrees to a complete release of Manufacturer and Seller. </span></p>
+<p><span>CUSTOMER ACKNOWLEDGES THAT HE OR SHE OR IT HAS BEEN INFORMED OF THE RISKS AND THE POTENTIAL RISKS OF USE AND OPERATING THIS PRODUCT, AND BY THIS AGREEMENT WAIVES ANY RIGHT TO ASSERT ANY CLAIM AGAINST MANUFACTURER OR SELLER, WHETHER FOR BREACH OF CONTRACT, TORT, NEGLIGENCE, OR OTHERWISE,EXCEPT AS PRESCRIBED IN THIS AGREEMENT,AND IN THE EVENT OF RESALE OF OR TRANSFER BY THE CUSTOMER OF SUCH PERFORMANCE INJECTORS, MANUFACTURER OFFERS NO WARRANTIES, EXPRESS OR IMPLIED.</span></p>
+<p><span>Replaces stock injector part numbers: 0 986 435 505, 0 445 120 238, 5263316, 5263316NX, and 5135790AD</span></p>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5.9L</s:tag>
+    <s:tag>Cummins</s:tag>
+    <s:tag>Dodge</s:tag>
+    <s:tag>Performance</s:tag>
+    <s:tag>Torque Diesel Motorsports</s:tag>
+    <s:variant>
+      <id>https://dieselpartscanada.ca/products/4888639963218</id>
+      <title>Core Charge / 1200</title>
+      <s:price currency="CAD">4860.00</s:price>
+      <s:sku>DPC-TDM05S1-6</s:sku>
+      <s:grams>662</s:grams>
+    </s:variant>
+  </entry>
+</feed>
